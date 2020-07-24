@@ -12,7 +12,13 @@ full-stack developer, android、python、flutter、django.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DYL521&theme=prussian" />
 </a>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+Deploy o
 
 😄 **Pronouns**: DYL<br>
 ⚡ **Fun fact**: i have a cat named kiwi!<br>
