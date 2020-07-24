@@ -18,3 +18,5 @@ full-stack developer, android、python、flutter、django.
 
 [sponsor](https://github.com/sponsors/DYL521)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
