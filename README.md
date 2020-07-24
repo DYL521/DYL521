@@ -15,4 +15,4 @@ full-stack developer, full-stack pancakes.
 
 ![Profile views](https://gpvc.arturio.dev/DYL521)
 
-[sponsor](https://github.com/sponsors/DYL521) | [paypal](https://paypal.me/maryn)
+[sponsor](https://github.com/sponsors/DYL521)
