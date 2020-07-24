@@ -19,11 +19,11 @@ full-stack developer, android、python、flutter、django.
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DYL521/flutter_shop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DYL521&repo=flutter_shop&theme=prussian" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/DYL521/flutter_study">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DYL521&repo=flutter_study&theme=prussian" />
 </a>
