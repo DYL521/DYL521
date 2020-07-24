@@ -12,12 +12,6 @@ full-stack developer, android、python、flutter、django.
 </a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-
-
 😄 **Pronouns**: DYL<br>
 ⚡ **Fun fact**: i have a cat named kiwi!<br>
 📫 **Say hello**: 1016068291@qq.com
