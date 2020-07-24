@@ -5,11 +5,11 @@ full-stack developer, android、python、flutter、django.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DYL521&show_icons=true&theme=prussian&line_height=27&v=5" alt="Anurag's github stats" />
+  <img align="left| center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DYL521&show_icons=true&theme=prussian&line_height=27&v=5" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DYL521&theme=prussian" />
+  <img align="left | center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DYL521&theme=prussian" />
 </a>
 
 
