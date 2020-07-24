@@ -1,8 +1,10 @@
 ### hello, i'm DYL! 👋
 
-full-stack developer, Android、flutter、python.
+full-stack developer, full-stack pancakes.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true)
+![GitHub github stats](https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=radical)
+
 
 😄 **Pronouns**: she/her<br>
 ⚡ **Fun fact**: i have a cat named kiwi!<br>
@@ -14,4 +16,6 @@ full-stack developer, Android、flutter、python.
 <a href="https://reverdata.xyz" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
 ![Profile views](https://gpvc.arturio.dev/DYL521)
+
+[sponsor](https://github.com/sponsors/DYL521)
 
