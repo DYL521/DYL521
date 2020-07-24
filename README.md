@@ -3,7 +3,7 @@
 full-stack developer, android、python、flutter、django.
 
 😄 **Pronouns**: DYL<br>
-⚡ **Fun fact**: i have a cat named kiwi!<br>
+⚡ **Fun fact**: i have a cat named 二蛋!<br>
 📫 **Say hello**: 1016068291@qq.com
 
 
