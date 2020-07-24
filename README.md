@@ -1,6 +1,6 @@
 ### hello, i'm DYL! 👋
 
-full-stack developer, full-stack pancakes.
+full-stack developer, Android、flutter、python.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true)
 
@@ -15,4 +15,3 @@ full-stack developer, full-stack pancakes.
 
 ![Profile views](https://gpvc.arturio.dev/DYL521)
 
-[sponsor](https://github.com/sponsors/DYL521)
