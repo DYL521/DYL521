@@ -12,6 +12,7 @@ full-stack developer, android、python、flutter、django.
 </a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&hide=javascript,html,python)](https://github.com/anuraghazra/github-readme-stats)
 
 
 😄 **Pronouns**: DYL<br>
