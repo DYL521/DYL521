@@ -3,6 +3,13 @@
 full-stack developer, android、python、flutter、django.
 
 ![GitHub github stats](https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=prussian)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DYL521&theme=prussian&hide=glsl,python" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DYL521&show_icons=true&theme=prussian&line_height=27&v=5" alt="Anurag's github stats" />
+</a>
 
 
 😄 **Pronouns**: she/her<br>
@@ -15,4 +22,5 @@ full-stack developer, android、python、flutter、django.
 <a href="https://reverdata.xyz" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
 ![Profile views](https://gpvc.arturio.dev/DYL521)
+
 
