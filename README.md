@@ -2,7 +2,7 @@
 
 full-stack developer, android、python、flutter、django.
 
-![GitHub github stats](https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=radical)
+![GitHub github stats](https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=prussian)
 
 
 😄 **Pronouns**: she/her<br>
@@ -15,8 +15,4 @@ full-stack developer, android、python、flutter、django.
 <a href="https://reverdata.xyz" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
 ![Profile views](https://gpvc.arturio.dev/DYL521)
-
-[sponsor](https://github.com/sponsors/DYL521)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
