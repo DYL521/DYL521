@@ -10,8 +10,9 @@ full-stack developer, android、python、flutter、django.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DYL521&theme=prussian&hide=glsl,python&v=5" />
 </a
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)]
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 😄 **Pronouns**: DYL<br>
 ⚡ **Fun fact**: i have a cat named kiwi!<br>
