@@ -2,16 +2,17 @@
 
 full-stack developer, android、python、flutter、django.
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DYL521&show_icons=true&theme=prussian&line_height=27&v=5" alt="Anurag's github stats" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DYL521&theme=prussian&hide=glsl,python&v=5" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DYL521&show_icons=true&theme=prussian&line_height=27&v=5" alt="Anurag's github stats" />
-</a>
 
 
-😄 **Pronouns**: she/her<br>
+😄 **Pronouns**: DYL<br>
 ⚡ **Fun fact**: i have a cat named kiwi!<br>
 📫 **Say hello**: 1016068291@qq.com
 
