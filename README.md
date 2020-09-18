@@ -1,6 +1,5 @@
 ### hello, i'm DYL! 👋
-
-full-stack developer, android、python、flutter、django.
+android、python、flutter、django.
 
 😄 **Pronouns**: DYL<br>
 ⚡ **Fun fact**: i have a cat named 二蛋!<br>
