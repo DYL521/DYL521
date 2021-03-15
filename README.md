@@ -1,5 +1,5 @@
 ### hello, i'm DYL! 👋
-android、python、flutter、django.
+python、android、django.
 
 😄 **Pronouns**: DYL<br>
 ⚡ **Fun fact**: i have a cat named 二蛋!<br>
