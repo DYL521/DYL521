@@ -2,7 +2,7 @@
 python、android、django.
 
 😄 **Pronouns**: DYL<br>
-⚡ **Fun fact**: i have a cat named 二蛋!<br>
+⚡ **Fun fact**: i have a cat named 小哈!<br>
 📫 **Say hello**: 1016068291@qq.com
 
 
