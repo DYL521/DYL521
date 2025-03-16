@@ -1,5 +1,5 @@
 ### hello, i'm DYL! 👋
-python、java、spring、springboot、android、django.
+python、java、django、spring、springboot、android.
 
 😄 **Pronouns**: DYL<br>
 ⚡ **Fun fact**: i have a cat named 小哈!<br>
