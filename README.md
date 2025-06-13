@@ -1,77 +1,47 @@
-<!-- GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm YL D</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=YL%20D%20%7C%20Backend%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h1 align="center">🧠 YL D — Backend Craftsman & Automation Architect</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/DYL521?label=Followers&style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DYL521" />
-  <a href="https://dyl521.github.io/2025/04/28/15.%E7%AE%80%E5%8E%86/%E7%AE%80%E5%8E%86/">
-    <img src="https://img.shields.io/badge/简历-点击查看-blue?style=flat-square&logo=read-the-docs" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java%2C+Python%2C+Groovy+%F0%9F%94%A5;Backend+Engineering+%E2%9C%94;System+Integration+%E2%9C%94;Celery+%7C+Jira+%7C+Weaviate+%E2%9C%94" />
 </p>
 
 ---
 
-## 🔍 About Me / 关于我
+### 🪄 Who I Am
 
-🎯 Backend Developer | 🧠 Solution Architect | ⚙️ Automation & Integration Expert
+- 🔧 后端开发工程师，擅长构建企业级自动化平台与数据同步系统
+- 🧩 深度理解 Jira/Confluence 自动化、权限建模与脚本化改造
+- 🧠 构建过 Celery 分布式管道 + LLM Embedding + Weaviate 系统
+- 🔐 快速集成 IAM、飞书、企业微信、Webhook 等内部平台
 
-- 🧵 主攻企业级自动化系统、研发效能提升与数据平台整合
-- 💡 精通 Python、Java、Groovy，擅长处理海量数据与复杂权限
-- 🔁 深耕于 Celery、Jira/Confluence 插件开发、飞书/企业微信机器人等系统对接
-- 💾 熟悉 SQL Server / Redis / Elasticsearch，熟练使用 Docker & K8s
-
----
-
-## ⚒️ Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apache-groovy)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![MyBatis Plus](https://img.shields.io/badge/-MyBatis--Plus-blue?style=flat-square&logo=databricks)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=python)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+> 「Think in Systems. Execute with Code.」
 
 ---
 
-## 🚀 Recent Projects
+### 🔍 Selected Projects
 
-| 项目名 | 简介 | 技术栈 |
-|--------|------|--------|
-| **🔎 LlamaIndex + Weaviate RAG 系统** | 将结构化数据转向向量搜索，支持字段过滤问答 | `FastAPI` `Celery` `LlamaIndex` `Weaviate v4` |
-| **🔐 WebDAV 自定义中间件认证** | 用 FastAPI 重写 WsgiDAV，支持 IAM + Redis 权控 | `Digest Auth` `Python` `WebDAV` |
-| **📈 Jira 自动化插件** | 内部系统集成、消息通知、权限控制全流程自动化 | `Groovy` `Jira SDK` `企业微信机器人` |
-| **📊 SQL Server 百万级数据分页同步** | 通过主键 ID 分批 & 哈希去重同步到 Weaviate | `Celery` `SQLAlchemy` `OpenAI Embedding` |
+<div align="center">
 
----
+🧠 **RAG Sync Engine**  
+将结构化数据转向向量搜索，支持字段过滤问答  
+👉 [`llamaindex-weaviate-pipeline`](https://github.com/DYL521/llamaindex-weaviate-pipeline)
 
-## 📊 GitHub Stats
+🔐 **WebDAV + IAM 权限中间件**  
+FastAPI 重构 WsgiDAV，接入 Redis & Digest 认证  
+👉 [`webdav-fastapi-auth`](https://github.com/DYL521/webdav-fastapi-auth)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+🌀 **Jira DevOps Toolkit**  
+超过 1000+ Groovy 脚本实现企业内部效能管理  
+👉 [`jira-groovy-utils`](https://github.com/DYL521/jira-groovy-utils)
 
----
-
-## 🧩 Explore My Work
-
-- 🛠️ [Auto Jira Toolkit](https://github.com/DYL521/jira-groovy-utils)
-- 🧠 [Structured RAG Sync Engine](https://github.com/DYL521/llamaindex-weaviate-pipeline)
-- 📄 [我的博客](https://dyl521.github.io/)
-- 📜 [我的简历](https://dyl521.github.io/2025/04/28/15.%E7%AE%80%E5%8E%86/%E7%AE%80%E5%8E%86/)
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer"/>
-</p>
+### 🧰 Stack I Master
+
+```txt
+Language:     Python | Java | Groovy
+Framework:    Spring Boot | FastAPI | Celery | MyBatis Plus
+Datastore:    SQL Server | Redis | Elasticsearch | Weaviate
+DevOps:       Docker | K8s | GitHub Actions
+Integration:  Jira SDK | 飞书机器人 | 企业微信 | WebDAV
