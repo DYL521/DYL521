@@ -1,54 +1,60 @@
-<h1 align="center">Hi, I'm 邓玉林 👨‍💻</h1>
+<h1 align="center">Hi there 👋，我是邓玉林</h1>
+
 <p align="center">
-  <b>资深后端开发工程师 · AI 平台架构实践者 · 系统集成与自动化狂热者</b><br>
-  <i>Python | Java | FastAPI | Weaviate | LlamaIndex | SpringBoot | Redis | MQ | Kubernetes</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=200&color=30FBEA&center=true&vCenter=true&width=435&lines=AI+%E5%B9%B3%E5%8F%B0%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88;RAG%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E6%93%8D%E6%89%8B;Jira%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AE%BE%E8%AE%A1%E5%B8%88;Python%2FJava%2FGroovy%E5%A4%9A%E8%83%BD%E5%BC%8F%E5%BC%95%E6%93%8E%E5%B8%88" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:1016068291@qq.com"><img src="https://img.shields.io/badge/email-1016068291@qq.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://dyl521.github.io/2025/04/28/15.%E7%AE%80%E5%8E%86/%E7%AE%80%E5%8E%86/" target="_blank"><img src="https://img.shields.io/badge/online-resume-blue?style=flat-square&logo=read-the-docs"></a>
+  <a href="https://github.com/DYL521" target="_blank"><img src="https://img.shields.io/github/followers/DYL521?label=GitHub&style=flat-square&logo=github"></a>
+</p>
+
+---
+
+### 💻 技术标签 | Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Weaviate-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🧠 关于我
 
-- 🏗️ 7年后端开发 & 平台架构经验，专注企业系统智能化
-- 🔍 擅长结构化数据 + LLM 构建智能问答系统（RAG）
-- ⚙️ 脚本驱动流程革命：2000+ Groovy 脚本标准化 Jira 流程
-- 🔄 打通 MDM、AD、Moka、工单等核心系统，实现权限闭环
-- 📈 重度实战派：技术不仅落地，还让系统性能翻倍起飞
+- 🧩 7 年后端开发经验，擅长构建稳定、高性能、自动化的系统架构
+- 🤖 熟悉企业权限体系、AD 集成与工单自动化，流程全打通
+- 🧬 热衷 LLM / RAG 系统研发，主导 Weaviate + LlamaIndex 项目落地
+- 📊 自动化狂人，写过 2000+ Groovy 脚本给 Jira 套上“程序员外挂”
 
 ---
 
-### 🚀 最近在做的事
+### 🧪 项目代表作
 
-- 🔬 构建基于 **LlamaIndex + Weaviate** 的结构化问答系统
-- 💬 探索向量检索 + 字段过滤组合的高性能问答管道
-- 🧰 开发企业级账号与权限管理平台
-- 🧵 搭建微服务与消息队列驱动的自动化运维流程
-
----
-
-### 📂 我的栈（部分）
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Weaviate](https://img.shields.io/badge/-Weaviate-EB6F58?style=flat)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat)
+- 🔍 **智能问答平台（RAG）**：基于 LlamaIndex + Weaviate，支持 SQL Server 表格字段过滤 + 语义检索组合
+- 🧩 **统一账号权限平台 eagle**：整合 AD/Moka/工单，全端登录 + 多平台权限预警
+- 🔧 **数字化工具链平台**：Jira 自动化 + MQ 消息总线 + 多系统 webhook 解耦
 
 ---
 
-### 📫 联系我
+### 📈 活跃状态
 
-- 📍 上海
-- 📧 1016068291@qq.com
-- 📧 dyl55521@gmail.com
-- 📱 WeChat：请私聊获取
-
----
-
-<p align=\"center\">
-  <img src=\"https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=tokyonight\" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=radical&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=radical" />
 </p>
+
+---
+
+> 「能自动化的都不该手动，能结构化的都不该复制粘贴。」
+
+---
