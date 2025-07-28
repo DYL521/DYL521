@@ -2,7 +2,10 @@
 
 # 👋 Hi there, 我是邓玉林
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+AI+平台后端工程师;🧠+RAG+商业项目实战操手;⚡+Jira+自动化设计师;🔥+Python%2FGo%2FJava+多能式引擎师;💡+7年+全栈架构经验" alt="Typing SVG" />
+<h3 align="center">
+🚀 AI平台后端工程师 | 🧠 RAG商业项目实战操手 | ⚡ Jira/Confluence工程化专家<br/>
+🔥 Python/Go/Java多能式引擎师 | 🛠️ Groovy插件开发达人 | 💡 7年全栈架构经验
+</h3>
 
 <p>
   <a href="mailto:1016068291@qq.com">
@@ -16,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
+---
 
 </div>
 
@@ -29,14 +32,15 @@ name: 邓玉林
 role: AI平台后端工程师
 experience: 7年全栈开发经验
 location: 中国
-focus: ["AI/RAG系统", "自动化平台", "高性能架构"]
+focus: ["AI/RAG系统", "Jira/Confluence工程化", "Groovy插件开发", "高性能架构"]
 motto: "不只是写代码，更是设计系统思维与智能工具"
 ```
 
 - 🧩 **7年+** 后端开发经验，擅长构建稳定、高性能、自动化的系统架构
 - 🤖 熟悉企业权限体系、AD 集成与工单自动化，流程全打通
 - 🧬 热衷 **LLM/RAG** 系统研发，主导 Weaviate + LlamaIndex 项目落地
-- 📊 自动化狂人，写过 **2000+** Groovy 脚本给 Jira 套上"程序员外挂"
+- 📊 **Jira/Confluence** 工程化配置专家，写过 **2000+** Groovy 脚本给 Jira 套上"程序员外挂"
+- 🔧 精通 **Groovy 插件开发**，自研多款 Atlassian 生态插件，深度定制企业协作流程
 - 💡 精通 **Python/Go/Java** 三栈共融，能写业务也能写平台
 
 <br clear="right"/>
@@ -68,7 +72,12 @@ motto: "不只是写代码，更是设计系统思维与智能工具"
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🛠️ 企业工程化 & 插件开发
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian_Plugins-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 
 </div>
 
@@ -95,12 +104,14 @@ motto: "不只是写代码，更是设计系统思维与智能工具"
 </details>
 
 <details>
-<summary><b>🔧 Jira 自动化工具链</b> - 研发流程智能化引擎</summary>
+<summary><b>🔧 Jira/Confluence 企业工程化平台</b> - 全流程研发协作自动化系统</summary>
 
-- **技术实现**: 2000+ Groovy 脚本 + REST API + Webhook
-- **覆盖场景**: 需求分析、开发排期、测试管理、版本发布
+- **技术实现**: 2000+ Groovy 脚本 + ScriptRunner + REST API + Webhook
+- **平台配置**: Jira 工作流设计、Confluence 知识库架构、权限体系规划
+- **插件开发**: 自研多款 Atlassian 插件，支持自定义字段、报表、审批流程
+- **覆盖场景**: 需求分析、开发排期、测试管理、版本发布、知识沉淀
 - **效率提升**: 减少80%手工操作，提升团队协作效率
-- **创新点**: 自研脚本引擎，支持热部署和版本回滚
+- **创新点**: 自研脚本引擎，支持热部署、版本回滚和A/B测试
 
 </details>
 
@@ -131,7 +142,8 @@ motto: "不只是写代码，更是设计系统思维与智能工具"
 <img src="https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" height="180"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DYL521&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" width="100%"/>
+<!-- GitHub Activity Graph (备用: 如果无法显示，可以注释掉) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DYL521&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -161,6 +173,16 @@ mindmap
         OpenAI API
         模型微调
         Prompt工程
+    企业工程化
+      Atlassian生态
+        Jira配置管理
+        Confluence空间设计
+        工作流自动化
+      Groovy开发
+        ScriptRunner
+        自定义插件
+        REST API集成
+        2000+脚本实战
     DevOps
       容器化
         Docker
@@ -171,23 +193,15 @@ mindmap
         阿里云
         腾讯云
     自动化
-      Jira脚本
-        Groovy
-        REST API
-        Webhook
+      企业协作流程
+        需求管理自动化
+        测试流程优化
+        发布流程标准化
       CI/CD
         Jenkins
         GitLab CI
         GitHub Actions
 ```
-
-## 🌟 代码贡献热力图
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DYL521&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true)
-
-</div>
 
 ## 🏆 成就徽章
 
@@ -215,6 +229,10 @@ mindmap
 
 </div>
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**⭐ 如果觉得有帮助，请给个 Star ⭐**
+
 </div>
