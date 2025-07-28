@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/📄_在线简历-查看详情-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
   <a href="https://github.com/DYL521" target="_blank">
-    <img src="https://img.shields.io/github/followers/DYL521?label=GitHub+关注&style=for-the-badge&logo=github&logoColor=white&color=181717"/>
+    <img src="https://img.shields.io/github/followers/DYL521?label=GitHub+%E5%85%B3%E6%B3%A8&style=for-the-badge&logo=github&logoColor=white&color=181717"/>
   </a>
 </p>
 
