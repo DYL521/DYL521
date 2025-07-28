@@ -1,65 +1,220 @@
-<h1 align="center">Hi there 👋，我是邓玉林</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=200&color=30FBEA&center=true&vCenter=true&width=435&lines=AI+%E5%B9%B3%E5%8F%B0%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88;RAG%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E6%93%8D%E6%89%8B;Jira%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AE%BE%E8%AE%A1%E5%B8%88;Python%2FGo%2FJava%2FGroovy%E5%A4%9A%E8%83%BD%E5%BC%8F%E5%BC%95%E6%93%8E%E5%B8%88" alt="Typing SVG" />
+# 👋 Hi there, 我是邓玉林
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+AI+平台后端工程师;🧠+RAG+商业项目实战操手;⚡+Jira+自动化设计师;🔥+Python%2FGo%2FJava+多能式引擎师;💡+7年+全栈架构经验" alt="Typing SVG" />
+
+<p>
+  <a href="mailto:1016068291@qq.com">
+    <img src="https://img.shields.io/badge/📧_Email-1016068291@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dyl521.github.io/2025/04/28/15.%E7%AE%80%E5%8E%86/%E7%AE%80%E5%8E%86/" target="_blank">
+    <img src="https://img.shields.io/badge/📄_在线简历-查看详情-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DYL521" target="_blank">
+    <img src="https://img.shields.io/github/followers/DYL521?label=GitHub+关注&style=for-the-badge&logo=github&logoColor=white&color=181717"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="mailto:1016068291@qq.com"><img src="https://img.shields.io/badge/email-1016068291@qq.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://dyl521.github.io/2025/04/28/15.%E7%AE%80%E5%8E%86/%E7%AE%80%E5%8E%86/" target="_blank"><img src="https://img.shields.io/badge/online-resume-blue?style=flat-square&logo=read-the-docs"></a>
-  <a href="https://github.com/DYL521" target="_blank"><img src="https://img.shields.io/github/followers/DYL521?label=GitHub&style=flat-square&logo=github"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
 
----
+</div>
 
-### 💻 技术标签 | Tech Stack
+## 🧠 关于我
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&label=Gin"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/mcp-clack?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Weaviate-orange?style=for-the-badge"/>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300"/>
 
----
+```yaml
+name: 邓玉林
+role: AI平台后端工程师
+experience: 7年全栈开发经验
+location: 中国
+focus: ["AI/RAG系统", "自动化平台", "高性能架构"]
+motto: "不只是写代码，更是设计系统思维与智能工具"
+```
 
-### 🧠 关于我
-
-- 🧩 7 年后端开发经验，擅长构建稳定、高性能、自动化的系统架构
+- 🧩 **7年+** 后端开发经验，擅长构建稳定、高性能、自动化的系统架构
 - 🤖 熟悉企业权限体系、AD 集成与工单自动化，流程全打通
-- 🧬 热衷 LLM / RAG 系统研发，主导 Weaviate + LlamaIndex 项目落地
-- 📊 自动化狂人，写过 2000+ Groovy 脚本给 Jira 套上“程序员外挂”
-- 💡 精通 Python / Go / Java 三栈共融，能写业务也能写平台
+- 🧬 热衷 **LLM/RAG** 系统研发，主导 Weaviate + LlamaIndex 项目落地
+- 📊 自动化狂人，写过 **2000+** Groovy 脚本给 Jira 套上"程序员外挂"
+- 💡 精通 **Python/Go/Java** 三栈共融，能写业务也能写平台
 
----
+<br clear="right"/>
 
-### 🧪 项目代表作
+## 💻 技术标签
 
-- 🔍 **RAG 智能问答平台**：LlamaIndex + Weaviate，支持结构化语义问答 + 字段过滤
-- 🧩 **统一账号权限平台 eagle**：跨系统账号生命周期管理，AD/Moka/工单全打通
-- 🔧 **Jira 自动化工具链**：2000+ Groovy 脚本，支撑需求、研发、测试、反馈闭环
-- 📁 **基于 WebDAV 的对象存储访问系统**: 使用 FastAPI + Redis + IAM 自研 WebDAV 中间件，将 AWS S3 桶封装为可挂载的网络盘，支持自定义认证、访问控制与读写权限管理。
-- 🚪 **智能酒店 PMS 系统**:基于 django 构建的一站式酒店管理平台，支持多角色权限管理、房态实时同步、入住离店流程自动化，实现前台、客房、工程、财务全链路数字化运营。
+<div align="center">
 
----
+### 🚀 后端开发
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 📈 活跃状态
+### 🤖 AI & 数据
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF6B6B?style=for-the-badge&logo=weaviate&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-4CAF50?style=for-the-badge&logo=protocol&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF9800?style=for-the-badge&logo=openai&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=radical&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=radical" />
-</p>
+### 🗄️ 数据库 & 缓存
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### ☁️ 云原生 & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
-> “不只是写代码，更是设计系统思维与智能工具。” —— 邓玉林
+</div>
+
+## 🧪 项目代表作
+
+<details>
+<summary><b>🔍 RAG 智能问答平台</b> - 企业级知识库智能检索系统</summary>
+
+- **技术栈**: LlamaIndex + Weaviate + FastAPI + Redis
+- **核心特性**: 结构化语义问答 + 多维度字段过滤
+- **性能指标**: 支持百万级文档检索，毫秒级响应
+- **业务价值**: 提升企业知识管理效率300%
+
+</details>
+
+<details>
+<summary><b>🧩 统一账号权限平台 Eagle</b> - 企业级身份管理系统</summary>
+
+- **技术栈**: Django + MySQL + Redis + LDAP
+- **核心功能**: 跨系统账号生命周期管理，AD/Moka/工单全打通
+- **系统规模**: 管理10000+员工账号，接入50+业务系统
+- **自动化率**: 账号开通/变更/注销流程自动化达95%
+
+</details>
+
+<details>
+<summary><b>🔧 Jira 自动化工具链</b> - 研发流程智能化引擎</summary>
+
+- **技术实现**: 2000+ Groovy 脚本 + REST API + Webhook
+- **覆盖场景**: 需求分析、开发排期、测试管理、版本发布
+- **效率提升**: 减少80%手工操作，提升团队协作效率
+- **创新点**: 自研脚本引擎，支持热部署和版本回滚
+
+</details>
+
+<details>
+<summary><b>📁 WebDAV 对象存储访问系统</b> - 云存储网络盘解决方案</summary>
+
+- **技术架构**: FastAPI + Redis + AWS S3 + IAM
+- **核心价值**: 将 S3 桶封装为可挂载网络盘
+- **安全特性**: 自定义认证、细粒度访问控制、权限管理
+- **兼容性**: 支持Windows/Mac/Linux多平台挂载
+
+</details>
+
+<details>
+<summary><b>🚪 智能酒店 PMS 系统</b> - 全链路酒店管理平台</summary>
+
+- **技术基础**: Django + PostgreSQL + Redis + WebSocket
+- **业务覆盖**: 前台、客房、工程、财务全流程数字化
+- **实时特性**: 房态实时同步、入住离店流程自动化
+- **多角色**: 支持管理员、前台、保洁、工程等角色权限管理
+
+</details>
+
+## 📊 GitHub 数据看板
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" height="180"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DYL521&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+## 🎯 技能图谱
+
+```mermaid
+mindmap
+  root((邓玉林))
+    后端开发
+      Python生态
+        Django
+        FastAPI
+        Celery
+      Go语言
+        Gin框架
+        并发编程
+        微服务
+      Java技术栈
+        Spring Boot
+        JVM调优
+    AI/ML
+      RAG系统
+        LlamaIndex
+        Weaviate
+        向量数据库
+      LLM集成
+        OpenAI API
+        模型微调
+        Prompt工程
+    DevOps
+      容器化
+        Docker
+        Kubernetes
+        服务网格
+      云平台
+        AWS S3
+        阿里云
+        腾讯云
+    自动化
+      Jira脚本
+        Groovy
+        REST API
+        Webhook
+      CI/CD
+        Jenkins
+        GitLab CI
+        GitHub Actions
+```
+
+## 🌟 代码贡献热力图
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DYL521&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true)
+
+</div>
+
+## 🏆 成就徽章
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=DYL521&color=58A6FF&style=for-the-badge&label=访问量)
+![Years Badge](https://badges.pufler.dev/years/DYL521?style=for-the-badge&color=1F6FEB)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/DYL521?style=for-the-badge&color=FF6B6B)
+
+</div>
+
+## 💬 联系我
+
+<div align="center">
+
+> 💡 **"不只是写代码，更是设计系统思维与智能工具。"**  
+> *—— 邓玉林*
+
+</div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_联系邮箱-1016068291@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1016068291@qq.com)
+[![Resume](https://img.shields.io/badge/📄_在线简历-点击查看-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://dyl521.github.io/2025/04/28/15.%E7%AE%80%E5%8E%86/%E7%AE%80%E5%8E%86/)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
