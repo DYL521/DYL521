@@ -48,7 +48,8 @@ motto: "不只是写代码，更是设计系统思维与智能工具"
 
 💡 精通 Python/Go/Java 三栈共融，能写业务也能写平台
 
-<!-- 第二个右对齐图表 --> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight" width="300"/> <br clear="right"/> ```
+<!-- 第二个右对齐图表 --> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight" width="300"/> <br clear="right"/>
+```
 
 ## 💻 技术标签
 
