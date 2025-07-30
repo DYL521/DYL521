@@ -26,7 +26,7 @@
 ## 🧠 关于我
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300"/>
-
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight)
 ```yaml
 name: 邓玉林
 role: AI平台后端工程师
@@ -209,8 +209,6 @@ mindmap
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DYL521&color=58A6FF&style=for-the-badge&label=访问量)
 ![GitHub Since](https://img.shields.io/badge/GitHub-since%202020-1f6feb?style=for-the-badge)
-![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight)
-
 
 </div>
 
