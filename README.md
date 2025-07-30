@@ -26,7 +26,8 @@
 ## 🧠 关于我
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300"/>
-![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight)
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight" width="300"/>
+
 ```yaml
 name: 邓玉林
 role: AI平台后端工程师
