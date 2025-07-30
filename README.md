@@ -250,12 +250,7 @@ mindmap
 
 </div>
 
-<div align="center">
 
-[![Email](https://img.shields.io/badge/📧_联系邮箱-1016068291@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1016068291@qq.com)
-[![Resume](https://img.shields.io/badge/📄_在线简历-点击查看-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://dyl521.github.io/2025/04/28/15.%E7%AE%80%E5%8E%86/%E7%AE%80%E5%8E%86/)
-
-</div>
 
 ---
 
