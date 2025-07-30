@@ -25,13 +25,14 @@
 
 ## 🧠 关于我
 
-<!-- 外层容器：整体居中显示 -->
+
+<!-- 整体居中容器 -->
 <div align="center">
 
-<!-- 内层两栏布局表格：无边框 -->
+<!-- 两栏布局 -->
 <table style="width: 100%; max-width: 900px;">
   <tr>
-    <!-- 左侧：文字内容 -->
+    <!-- 左侧文字内容 -->
     <td width="50%" valign="top" style="padding-right: 20px;">
 
 <pre>
@@ -56,21 +57,25 @@ motto: "不只是写代码，更是设计系统思维与智能工具"
 
 </td>
 
-<!-- 右侧：图表内容 -->
+<!-- 右侧图表内容：上下两图各占 1/2 -->
 <td width="50%" valign="top" align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    width="300"
-  /><br/><br/>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight"
-    width="300"
-  />
+  <!-- 外层容器设置固定高度，用于模拟上下 1/2 分布 -->
+  <div style="height: 600px; display: flex; flex-direction: column; justify-content: space-between;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+      style="height: 290px;"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight"
+      style="height: 290px;"
+    />
+  </div>
 </td>
 </tr>
 </table>
 
 </div>
+
 
 
 ## 💻 技术标签
