@@ -25,10 +25,26 @@
 
 ## 🧠 关于我
 
-<!-- 第一个右对齐图表 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300"/>
-<!-- 第二个右对齐图表 --> 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight" width="300"/> 
+<!-- 图表容器 -->
+<div align="right">
+  <!-- 上图：Top Langs -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    width="300"
+  />
+
+  <!-- 下图：Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight"
+    width="300"
+    style="margin-top: 10px;"
+  />
+</div>
+
+<!-- 清除浮动 + 空白留白 -->
+<br clear="right"/>
+<br/>
+
 
 ```yaml
 name: 邓玉林
