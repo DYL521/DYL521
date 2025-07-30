@@ -27,6 +27,8 @@
 
 <!-- 第一个右对齐图表 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300"/>
+<!-- 第二个右对齐图表 --> 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight" width="300"/> 
 
 ```yaml
 name: 邓玉林
@@ -48,8 +50,8 @@ motto: "不只是写代码，更是设计系统思维与智能工具"
 
 💡 精通 Python/Go/Java 三栈共融，能写业务也能写平台
 ```
-<!-- 第二个右对齐图表 --> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight" width="300"/> <br clear="right"/>
 
+<br clear="right"/>
 
 ## 💻 技术标签
 
