@@ -208,8 +208,9 @@ mindmap
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DYL521&color=58A6FF&style=for-the-badge&label=访问量)
-![Years Badge](https://badges.pufler.dev/years/DYL521?style=for-the-badge&color=1F6FEB)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/DYL521?style=for-the-badge&color=FF6B6B)
+![GitHub Since](https://img.shields.io/badge/GitHub-since%202020-1f6feb?style=for-the-badge)
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight)
+
 
 </div>
 
