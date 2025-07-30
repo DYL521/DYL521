@@ -25,15 +25,13 @@
 
 ## 🧠 关于我
 
-<!-- 图表容器 -->
+
+<!-- 右侧图表容器 -->
 <div align="right">
-  <!-- 上图：Top Langs -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
     width="300"
   />
-
-  <!-- 下图：Streak -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight"
     width="300"
@@ -41,11 +39,7 @@
   />
 </div>
 
-<!-- 清除浮动 + 空白留白 -->
-<br clear="right"/>
-<br/>
-
-
+<!-- 左侧文字内容 -->
 ```yaml
 name: 邓玉林
 role: AI平台后端工程师
@@ -53,7 +47,6 @@ experience: 7年全栈开发经验
 location: 中国
 focus: ["AI/RAG系统", "Jira/Confluence工程化", "Groovy插件开发", "高性能架构"]
 motto: "不只是写代码，更是设计系统思维与智能工具"
-<!-- bullet 列表 -->
 🧩 7年+ 后端开发经验，擅长构建稳定、高性能、自动化的系统架构
 
 🤖 熟悉企业权限体系、AD 集成与工单自动化，流程全打通
@@ -65,9 +58,9 @@ motto: "不只是写代码，更是设计系统思维与智能工具"
 🔧 精通 Groovy 插件开发，自研多款 Atlassian 生态插件，深度定制企业协作流程
 
 💡 精通 Python/Go/Java 三栈共融，能写业务也能写平台
-```
 
-<br clear="right"/>
+<!-- 清除右侧浮动并添加空白间距 --> <br clear="right"/> <br/>
+```
 
 ## 💻 技术标签
 
