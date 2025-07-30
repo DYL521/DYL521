@@ -25,41 +25,48 @@
 
 ## 🧠 关于我
 
+<table>
+  <tr>
+    <!-- 左侧：文字内容 -->
+    <td width="50%" valign="top">
 
-<!-- 右侧图表容器 -->
-<div align="right">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    width="300"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight"
-    width="300"
-    style="margin-top: 10px;"
-  />
-</div>
-
-<!-- 左侧文字内容 -->
-```yaml
+<pre>
+<code>
 name: 邓玉林
 role: AI平台后端工程师
 experience: 7年全栈开发经验
 location: 中国
 focus: ["AI/RAG系统", "Jira/Confluence工程化", "Groovy插件开发", "高性能架构"]
 motto: "不只是写代码，更是设计系统思维与智能工具"
-🧩 7年+ 后端开发经验，擅长构建稳定、高性能、自动化的系统架构
+</code>
+</pre>
 
-🤖 熟悉企业权限体系、AD 集成与工单自动化，流程全打通
+<ul>
+  <li>🧩 <strong>7年+</strong> 后端开发经验，擅长构建稳定、高性能、自动化的系统架构</li>
+  <li>🤖 熟悉企业权限体系、AD 集成与工单自动化，流程全打通</li>
+  <li>🧬 热衷 <strong>LLM/RAG</strong> 系统研发，主导 Weaviate + LlamaIndex 项目落地</li>
+  <li>📊 <strong>Jira/Confluence</strong> 工程化配置专家，写过 <strong>2000+</strong> Groovy 脚本给 Jira 套上"程序员外挂"</li>
+  <li>🔧 精通 <strong>Groovy 插件开发</strong>，自研多款 Atlassian 生态插件，深度定制企业协作流程</li>
+  <li>💡 精通 <strong>Python/Go/Java</strong> 三栈共融，能写业务也能写平台</li>
+</ul>
 
-🧬 热衷 LLM/RAG 系统研发，主导 Weaviate + LlamaIndex 项目落地
+</td>
 
-📊 Jira/Confluence 工程化配置专家，写过 2000+ Groovy 脚本给 Jira 套上"程序员外挂"
+<!-- 右侧：图表内容 -->
+<td width="50%" valign="top" align="right">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    width="300"
+  /><br/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight"
+    width="300"
+    style="margin-top: 10px;"
+  />
+</td>
+</tr>
+</table>
 
-🔧 精通 Groovy 插件开发，自研多款 Atlassian 生态插件，深度定制企业协作流程
-
-💡 精通 Python/Go/Java 三栈共融，能写业务也能写平台
-
-<!-- 清除右侧浮动并添加空白间距 --> <br clear="right"/> <br/>```
 
 ## 💻 技术标签
 
