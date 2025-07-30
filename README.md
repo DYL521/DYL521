@@ -25,7 +25,7 @@
 <div align="center">
 
 <!-- 自动高度、无边框、最大宽度限制 -->
-<table style="width: 100%; max-width: 900px;">
+<table style="border:none; width: 100%; max-width: 900px;">
   <tr>
     <!-- 左侧：文字 -->
     <td width="50%" valign="top" style="padding-right: 20px;">
