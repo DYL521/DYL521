@@ -25,12 +25,14 @@
 
 ## 🧠 关于我
 
-## 🧠 关于我
+<!-- 外层容器：整体居中显示 -->
+<div align="center">
 
-<table>
+<!-- 内层两栏布局表格：无边框 -->
+<table style="width: 100%; max-width: 900px;">
   <tr>
     <!-- 左侧：文字内容 -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-right: 20px;">
 
 <pre>
 <code>
@@ -55,20 +57,20 @@ motto: "不只是写代码，更是设计系统思维与智能工具"
 </td>
 
 <!-- 右侧：图表内容 -->
-<td width="50%" valign="top" align="right">
+<td width="50%" valign="top" align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
     width="300"
-  /><br/>
+  /><br/><br/>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight"
     width="300"
-    style="margin-top: 10px;"
   />
 </td>
 </tr>
 </table>
 
+</div>
 
 
 ## 💻 技术标签
