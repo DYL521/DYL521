@@ -25,6 +25,7 @@
 
 ## 🧠 关于我
 
+<!-- 第一个右对齐图表 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300"/>
 
 ```yaml
@@ -34,17 +35,20 @@ experience: 7年全栈开发经验
 location: 中国
 focus: ["AI/RAG系统", "Jira/Confluence工程化", "Groovy插件开发", "高性能架构"]
 motto: "不只是写代码，更是设计系统思维与智能工具"
-```
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight" width="300"/>
+<!-- bullet 列表 -->
+🧩 7年+ 后端开发经验，擅长构建稳定、高性能、自动化的系统架构
 
-- 🧩 **7年+** 后端开发经验，擅长构建稳定、高性能、自动化的系统架构
-- 🤖 熟悉企业权限体系、AD 集成与工单自动化，流程全打通
-- 🧬 热衷 **LLM/RAG** 系统研发，主导 Weaviate + LlamaIndex 项目落地
-- 📊 **Jira/Confluence** 工程化配置专家，写过 **2000+** Groovy 脚本给 Jira 套上"程序员外挂"
-- 🔧 精通 **Groovy 插件开发**，自研多款 Atlassian 生态插件，深度定制企业协作流程
-- 💡 精通 **Python/Go/Java** 三栈共融，能写业务也能写平台
+🤖 熟悉企业权限体系、AD 集成与工单自动化，流程全打通
 
-<br clear="right"/>
+🧬 热衷 LLM/RAG 系统研发，主导 Weaviate + LlamaIndex 项目落地
+
+📊 Jira/Confluence 工程化配置专家，写过 2000+ Groovy 脚本给 Jira 套上"程序员外挂"
+
+🔧 精通 Groovy 插件开发，自研多款 Atlassian 生态插件，深度定制企业协作流程
+
+💡 精通 Python/Go/Java 三栈共融，能写业务也能写平台
+
+<!-- 第二个右对齐图表 --> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DYL521&theme=tokyonight" width="300"/> <br clear="right"/> ```
 
 ## 💻 技术标签
 
