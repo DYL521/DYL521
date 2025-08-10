@@ -197,6 +197,7 @@ mindmap
     AI/ML
       RAG系统
         LlamaIndex
+        Langchain
         Weaviate
         向量数据库
       LLM集成
