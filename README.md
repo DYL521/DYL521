@@ -88,6 +88,7 @@ motto: "不只是写代码，更是设计系统思维与智能工具"
 
 ### 🤖 AI & 数据
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-8A2BE2?style=for-the-badge&logo=meta&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-FF6B6B?style=for-the-badge&logo=weaviate&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-4CAF50?style=for-the-badge&logo=protocol&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Systems-FF9800?style=for-the-badge&logo=openai&logoColor=white)
