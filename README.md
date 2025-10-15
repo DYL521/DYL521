@@ -11,7 +11,7 @@
   <a href="mailto:1016068291@qq.com">
     <img src="https://img.shields.io/badge/📧_Email-1016068291@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://dyl521.github.io/2025/04/28/15.%E7%AE%80%E5%8E%86/%E7%AE%80%E5%8E%86/" target="_blank">
+  <a href="https://dyl521.github.io/pages/dyl521/" target="_blank">
     <img src="https://img.shields.io/badge/📄_在线简历-查看详情-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
   <a href="https://github.com/DYL521" target="_blank">
