@@ -4,7 +4,7 @@
 
 <h3 align="center">
 🚀 AI平台后端工程师 | 🧠 RAG商业项目实战操手 | ⚡ Jira/Confluence工程化专家<br/>
-🔥 Python/Go/Java多能式引擎师 | 🛠️ Groovy插件开发达人 | 💡 7年全栈架构经验
+🔥 Python/Go 多能式引擎师 | 🛠️ Groovy插件开发达人 | 💡 7年全栈架构经验
 </h3>
 
 <p>
