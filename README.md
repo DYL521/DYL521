@@ -105,12 +105,15 @@ Right now I care most about:
   - tools that increase operational leverage, not just feature count
 ```
 
-## 中文
+<details>
+  <summary><b>中文 / Chinese Version</b></summary>
+  <br/>
 
-### / 我是谁
+  <h2>/ 中文</h2>
 
-```yaml
-姓名: 邓玉林
+  <h3>/ 我是谁</h3>
+
+  <pre><code>姓名: 邓玉林
 角色: AI 平台工程师
 地点: 中国
 经验: 7年以上
@@ -118,77 +121,78 @@ Right now I care most about:
   - RAG 系统
   - 企业身份与权限自动化
   - Jira / Confluence 工程化
-  - 后端架构
-```
+  - 后端架构</code></pre>
 
-我不太喜欢把软件做得很“显复杂”。
+  我不太喜欢把软件做得很“显复杂”。
 
-我更喜欢做另一种系统：
+  我更喜欢做另一种系统：
 
-- 让知识真正能被找到
-- 让流程不再依赖人工追着跑
-- 让内部工具上线之后还能持续替团队省时间
+  - 让知识真正能被找到
+  - 让流程不再依赖人工追着跑
+  - 让内部工具上线之后还能持续替团队省时间
 
-我的工作一直在几个交叉点之间：后端工程、企业真实流程，以及必须真正落地的 AI 系统。
+  我的工作一直在几个交叉点之间：后端工程、企业真实流程，以及必须真正落地的 AI 系统。
 
-### / 我怎么走到这里
+  <h3>/ 我怎么走到这里</h3>
 
-我最早是从后端开发做起，但后来发现，真正有意思的部分往往不只是接口和数据库。
+  我最早是从后端开发做起，但后来发现，真正有意思的部分往往不只是接口和数据库。
 
-更麻烦、也更有价值的问题通常是：
+  更麻烦、也更有价值的问题通常是：
 
-- 谁该有权限，谁不该有
-- 流程一变，系统哪里会跟着出问题
-- 信息是在哪个环节丢掉的
-- 哪个手工步骤其实根本不该存在
+  - 谁该有权限，谁不该有
+  - 流程一变，系统哪里会跟着出问题
+  - 信息是在哪个环节丢掉的
+  - 哪个手工步骤其实根本不该存在
 
-所以我后来会长期做账号生命周期平台、Jira / Confluence 自动化，再到现在更专注 AI 知识系统，并不算跳跃，反而是一条很自然的线。
+  所以我后来会长期做账号生命周期平台、Jira / Confluence 自动化，再到现在更专注 AI 知识系统，并不算跳跃，反而是一条很自然的线。
 
-### / 我在做什么
+  <h3>/ 我在做什么</h3>
 
-### RAG 与知识系统
-- 面向真实业务场景的 AI 后端，强调结构化检索、元数据过滤和可交付 API
-- 不是只做 Demo，而是做能进入组织流程的知识系统
+  <h4>RAG 与知识系统</h4>
 
-### 身份与流程平台
-- 覆盖入转调离的账号生命周期自动化
-- 打通 AD、人事系统、工单系统和内部业务平台
+  - 面向真实业务场景的 AI 后端，强调结构化检索、元数据过滤和可交付 API
+  - 不是只做 Demo，而是做能进入组织流程的知识系统
 
-### Jira / Confluence 工程化
-- 深度使用 ScriptRunner 和 Groovy 做定制
-- 把审批、工作流、报表和流程控制做成可编排的内部能力
+  <h4>身份与流程平台</h4>
 
-### / 一些能代表我的项目
+  - 覆盖入转调离的账号生命周期自动化
+  - 打通 AD、人事系统、工单系统和内部业务平台
 
-<details open>
-  <summary><b>RAG 智能问答平台</b></summary>
-  <br/>
-  技术栈：<b>LlamaIndex + Weaviate + FastAPI + Redis</b><br/>
-  重点在企业知识检索、结构化回答和字段过滤。
-</details>
+  <h4>Jira / Confluence 工程化</h4>
 
-<details>
-  <summary><b>统一账号与权限平台</b></summary>
-  <br/>
-  技术栈：<b>Django + MySQL + Redis + LDAP</b><br/>
-  重点在账号全生命周期自动化，以及与内部系统、AD、人事流程的联动。
-</details>
+  - 深度使用 ScriptRunner 和 Groovy 做定制
+  - 把审批、工作流、报表和流程控制做成可编排的内部能力
 
-<details>
-  <summary><b>Jira / Confluence 工程化平台</b></summary>
-  <br/>
-  技术栈：<b>Groovy + ScriptRunner + REST API + 自研插件</b><br/>
-  重点在把协作流程改造成真正可编排、可扩展的工程系统。
-</details>
+  <h3>/ 一些能代表我的项目</h3>
 
-### / 现在我最在意的事
+  <details open>
+    <summary><b>RAG 智能问答平台</b></summary>
+    <br/>
+    技术栈：<b>LlamaIndex + Weaviate + FastAPI + Redis</b><br/>
+    重点在企业知识检索、结构化回答和字段过滤。
+  </details>
 
-```text
-我现在最关注三类问题：
+  <details>
+    <summary><b>统一账号与权限平台</b></summary>
+    <br/>
+    技术栈：<b>Django + MySQL + Redis + LDAP</b><br/>
+    重点在账号全生命周期自动化，以及与内部系统、AD、人事流程的联动。
+  </details>
+
+  <details>
+    <summary><b>Jira / Confluence 工程化平台</b></summary>
+    <br/>
+    技术栈：<b>Groovy + ScriptRunner + REST API + 自研插件</b><br/>
+    重点在把协作流程改造成真正可编排、可扩展的工程系统。
+  </details>
+
+  <h3>/ 现在我最在意的事</h3>
+
+  <pre><code>我现在最关注三类问题：
   - AI 系统怎么真正进入业务流程，而不是停留在展示层
   - 后端平台怎么减少人工交接和隐性损耗
-  - 工具怎么形成长期杠杆，而不是只多一个功能
-```
+  - 工具怎么形成长期杠杆，而不是只多一个功能</code></pre>
+</details>
 
 ## / stack
 
