@@ -12,6 +12,17 @@
 
 </div>
 
+## stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c9d1d9" height="170" />
+</div>
+
+<div align="center">
+
+if you're building something around AI platforms, backend systems, or enterprise automation, feel free to reach out.
+
 ## EN
 
 ```yaml
@@ -121,16 +132,6 @@ I like building software that quietly removes friction.
   </details>
 </details>
 
-## stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c9d1d9" height="170" />
-</div>
-
-<div align="center">
-
-if you're building something around AI platforms, backend systems, or enterprise automation, feel free to reach out.
 
 <br/><br/>
 
