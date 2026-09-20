@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Deng Yulin — AI Platform Engineer</title>
+  <desc id="desc">An editorial cover in warm ivory, ink, and vermilion. Turning complexity into useful systems. A diagram connects knowledge, identity, and workflows to a shared system.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#D9D5CB" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="520" rx="18" fill="#F5F2E9" />
+  <rect x="0.5" y="0.5" width="1199" height="519" rx="17.5" stroke="#D9D5CB" />
+  <path d="M48 93H1152" stroke="#D3CEC2" />
+  <rect x="48" y="41" width="29" height="29" rx="3" fill="#C7492D" />
+  <path d="M56 50H68M56 56H65M56 62H62" stroke="#FFF9EF" stroke-width="2" />
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#585950">
+    <text x="92" y="61">DYL521 / ENGINEERING</text>
+    <text x="1152" y="61" text-anchor="end">KNOWLEDGE. SYSTEMS. FLOW.</text>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="48" y="150" fill="#B53F25" font-size="16" font-weight="600" letter-spacing="2">AI PLATFORM ENGINEER</text>
+    <text x="44" y="237" fill="#242923" font-size="78" font-weight="700" letter-spacing="-4">Deng Yulin<tspan fill="#C7492D">.</tspan></text>
+    <text x="48" y="302" fill="#242923" font-size="34" font-weight="500" letter-spacing="-0.8">Turning complexity</text>
+    <text x="48" y="346" fill="#242923" font-size="34" font-weight="500" letter-spacing="-0.8">into useful systems.</text>
+    <text x="48" y="396" fill="#626459" font-size="17">AI platforms, backend systems, and the workflows between.</text>
+  </g>
+  <rect x="708" y="115" width="444" height="306" rx="10" fill="url(#grid)" />
+  <g stroke="#BEBFB3" stroke-width="1.5">
+    <path d="M766 174H815Q827 174 827 186V246Q827 258 839 258H871" />
+    <path d="M766 258H871" />
+    <path d="M766 342H815Q827 342 827 330V270Q827 258 839 258" />
+    <path d="M985 258H1027Q1039 258 1039 246V203H1104" />
+    <path d="M985 258H1027Q1039 258 1039 270V313H1104" />
+  </g>
+  <g fill="#F5F2E9" stroke="#878D7E" stroke-width="1.5">
+    <rect x="744" y="163" width="22" height="22" rx="4" />
+    <rect x="744" y="247" width="22" height="22" rx="4" />
+    <rect x="744" y="331" width="22" height="22" rx="4" />
+    <circle cx="1104" cy="203" r="5" />
+    <circle cx="1104" cy="313" r="5" />
+  </g>
+  <rect x="871" y="201" width="114" height="114" rx="18" fill="#242923" />
+  <rect x="881" y="211" width="94" height="94" rx="12" stroke="#52584C" />
+  <path d="M908 244H926V262H908ZM930 244H948V262H930ZM908 266H926V284H908Z" fill="#F5F2E9" />
+  <rect x="930" y="266" width="18" height="18" fill="#E87850" />
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#585950">
+    <text x="744" y="151">KNOWLEDGE</text>
+    <text x="744" y="235">IDENTITY</text>
+    <text x="744" y="319">WORKFLOWS</text>
+    <text x="928" y="343" text-anchor="middle">BUILD / CONNECT</text>
+    <text x="1109" y="184" text-anchor="end">CLARITY</text>
+    <text x="1109" y="345" text-anchor="end">UTILITY</text>
+  </g>
+  <circle cx="844" cy="258" r="4" fill="#C7492D" />
+  <path d="M48 446H1152" stroke="#D3CEC2" />
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.2" fill="#585950">
+    <text x="48" y="484">01 / RETRIEVE</text>
+    <text x="291" y="484">02 / CONNECT</text>
+    <text x="534" y="484">03 / AUTOMATE</text>
+    <text x="1152" y="484" text-anchor="end" fill="#B53F25">COMPLEXITY → CLARITY</text>
+  </g>
+</svg>
