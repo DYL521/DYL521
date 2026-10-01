@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="t d"><title id="t">DYL521 — 邓玉林的个人开发现场</title><desc id="d">Oversized black DYL521 lettering on orange, a cobalt connector symbol, and an index of backend, RAG and automation work.</desc>
+<rect width="1200" height="600" fill="#ff673b"/>
+<path d="M32 70H1168M32 527H1168" stroke="#1b1b1b" stroke-width="2"/>
+<g fill="#1b1b1b" font-family="monospace" font-size="19"><text x="34" y="44">DENG YULIN / 邓玉林</text><text x="909" y="44">PERSONAL DEV SPACE</text></g>
+<g font-family="Arial Black,Arial,Helvetica,sans-serif" font-weight="900" font-size="258" letter-spacing="-19" fill="#1b1b1b"><text x="21" y="282">DYL</text><text x="24" y="501">521<tspan font-size="135" letter-spacing="-8">_</tspan></text></g>
+<g transform="translate(730 103)"><rect x="8" y="8" width="400" height="210" fill="#1b1b1b"/><rect width="400" height="210" fill="#294bff"/>
+<g fill="none" stroke="#f6f5ef" stroke-width="18" stroke-linecap="square"><path d="M116 60L68 105L116 150M284 60L332 105L284 150M228 43L177 167"/></g></g>
+<g font-family="monospace" font-size="23" fill="#1b1b1b"><text x="737" y="369">01   BACKEND</text><text x="737" y="412">02   RAG / KNOWLEDGE</text><text x="737" y="455">03   AUTOMATION</text></g>
+<g font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="25" fill="#1b1b1b"><text x="34" y="571">让知识可用，让系统相连。</text><text x="868" y="571">持续构建，保持好奇 ↗</text></g></svg>

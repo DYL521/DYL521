@@ -1,23 +1,25 @@
-<a href="https://dyl521.github.io/"><img src="./assets/profile-notebook.svg" width="100%" alt="邓玉林 / Deng Yulin — 个人工程手记。把知识连起来，把重复的事交给代码。" /></a>
+<a href="https://dyl521.github.io/"><img src="./assets/profile-devspace.svg" width="100%" alt="DYL521 / 邓玉林 — 个人开发现场。后端、RAG、自动化。" /></a>
 
-**我是邓玉林。** 做 AI 平台与后端，也写脚本解决工作里那些重复、琐碎的事。
+### Hey, I’m Yulin. 这里是我的开发现场。
 
-我的项目大多围绕三个问题：知识怎么被找到，系统怎么连起来，流程怎么少一点人工。
+做 AI 平台与后端，关心知识怎么被用起来，也关心每天能少做多少重复操作。
+
+从 RAG 检索、MCP 工具接入，到账号权限和协作流程——我做的事，往往发生在系统与系统之间。
 
 [个人网站 ↗](https://dyl521.github.io/) · [代码仓库 ↗](https://github.com/DYL521?tab=repositories) · [写信给我 ↗](mailto:1016068291@qq.com)
 
-## 01 / 开源现场
+## 做过的，比标签更具体。
 
 <p align="center">
-  <a href="https://github.com/ascending-llc/jarvis-registry"><img src="./assets/project-jarvis.svg" width="410" alt="Jarvis Registry — contributor. Enterprise MCP and agent gateway; contributions to embedding reindexing and tool access controls." /></a>
-  <a href="https://github.com/DYL521/Agentic-Design-Patterns-CN"><img src="./assets/project-agentic.svg" width="410" alt="Agentic Design Patterns CN — my bilingual repository for learning AI agent design patterns." /></a>
+  <a href="https://github.com/ascending-llc/jarvis-registry"><img src="./assets/selected-jarvis.svg" width="100%" alt="Jarvis Registry — contributor. Enterprise MCP and agent gateway; contributions to embedding reindexing and tool access controls." /></a>
+  <a href="https://github.com/DYL521/Agentic-Design-Patterns-CN"><img src="./assets/selected-agentic.svg" width="100%" alt="Agentic Design Patterns CN — my bilingual repository for learning AI agent design patterns." /></a>
 </p>
 
-**[Jarvis Registry](https://github.com/ascending-llc/jarvis-registry)** — Contributing to enterprise AI infrastructure, including [embedding reindexing](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44) and [tool access controls](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470).
+**[Jarvis Registry](https://github.com/ascending-llc/jarvis-registry)** — 参与企业 AI 基础设施开发，包括 [embedding reindexing](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44) 和 [tool access controls](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470).
 
-**[Agentic Design Patterns CN](https://github.com/DYL521/Agentic-Design-Patterns-CN)** — A Chinese/English resource on AI agent design patterns, connecting concepts with implementation examples.
+**[Agentic Design Patterns CN](https://github.com/DYL521/Agentic-Design-Patterns-CN)** — 整理 AI Agent 设计模式的中英文资料，连接概念与实现示例。
 
-## 02 / 我在做的系统
+## 我的代码，通常出现在这些地方。
 
 | 方向 | 想解决的问题 |
 | :--- | :--- |
@@ -48,7 +50,8 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 
 </details>
 
-## 03 / 手边的工具
+<details>
+<summary><strong>工具箱 / Python、Go、后端与基础设施</strong></summary>
 
 | Area | Tools |
 | :--- | :--- |
@@ -58,7 +61,9 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 | Infrastructure | `Docker` `Kubernetes` `AWS` `Git` |
 | Integrations | `MCP` `LDAP / AD` `Jira` `Confluence` `REST APIs` |
 
-## 04 / 保持联系
+</details>
+
+## 站外还有一个我。
 
 如果你也在做 RAG、后端系统或企业自动化，欢迎交流具体的问题和实现。
 
@@ -68,4 +73,4 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 
 ---
 
-<sub>邓玉林 / Deng Yulin · 代码、系统，以及它们之间的连接。</sub>
+<sub>DYL521 · BUILD / CONNECT / REPEAT</sub>

@@ -48,3 +48,9 @@ Local README previews were checked at desktop width (1100px) and narrow widths (
 ## Revision: engineering field notes
 
 Replaced the generated technology hero with a self-contained SVG masthead: Chinese name, ink-black type, vermilion annotations, paper background and a functional connection diagram. Removed decorative skill cards and badge navigation from the README. Kept verified project links and a text-first account of the work. Prior assets remain available for comparison.
+
+## Revision: DYL521 personal dev space
+
+Based on the user's explicit preference for bold contrast, oversized typography and experimental layout. Uses the actual GitHub handle as the central visual identity, orange/ink contrast and a cobalt code mark. No invented hobbies or biography. Native text remains readable beneath the SVG masthead. Full-width project strips replace the generic card grid.
+
+References checked 2026-10-01: https://github.com/antfu (personal navigation), https://github.com/tw93 (work and releases at the center), https://github.com/ryo-ma (project identity). These inform hierarchy, not copied graphics.
