@@ -1,37 +1,46 @@
-# GitHub 主页设计说明
+# GitHub profile design
 
-## 设计方向
+## Direction
 
-以「工程师作品集」呈现邓玉林的 AI 平台、后端工程与企业自动化经验。核心表达是：**把复杂问题，做成可用的系统。**
+A developer portfolio built around real work: AI infrastructure, knowledge retrieval, identity, and automation. Midnight navy surfaces, periwinkle and cyan accents, precise typography, and an original glass architecture illustration create a coherent technical identity.
 
-采用暖白（`#F5F2E9`）、墨黑（`#242923`）和朱橙（`#C7492D`）的视觉体系，以留白、大字姓名、编号和系统连接图建立辨识度。首图保持固定底色，在 GitHub 浅色和深色界面中均作为完整画幅展示。
+The banner introduces the person. Linked project cards establish evidence. Smaller focus cards summarize engineering experience. Detailed descriptions remain available as native, selectable text in expandable sections. Bilingual headings and a short Chinese introduction make the profile approachable in both languages.
 
-## 信息顺序
+## References and what we used
 
-1. **个人定位**：姓名、角色、一句话价值表达，以及原创架构示意图。
-2. **代表经历**：知识系统、身份基础设施、协作流程工程化；直接展开说明，让读者快速理解做过什么。
-3. **工程方法与技术栈**：表达工作方式，按用途组织技术名称。
-4. **中文介绍**：保留中文信息，以一个可展开区域减少页面重复。
-5. **联系入口**：使用已有邮箱和 GitHub 仓库列表。
+- [DenverCoder1](https://github.com/DenverCoder1): a recognizable introduction, consistent repository cards, and clear separation of projects, tools, and supporting details. We adopted the information hierarchy and linked cards, not the author's images or personal metrics.
+- [lowlighter](https://github.com/lowlighter/lowlighter): engineering information presented as coherent visual modules. We applied this to the three areas of experience; the diagrams are conceptual, not live statistics.
+- [Tw93](https://github.com/tw93): real projects and current work make a profile personal. We used verified public work instead of adding unsubstantiated achievements.
 
-## 内容原则
+## Content verification
 
-- 个人资料、项目和技术栈来自原 README；不添加公司、头衔、性能指标、用户规模或未经确认的项目链接。
-- 三项内容是现有项目经历的整理，不代表它们均已开源。
-- 后续有可公开的仓库、演示或真实成果数据时，优先补充到对应项目下，使介绍更有证据支撑。
-- 去除访客计数、打字动画和第三方统计卡片，让读者注意个人定位与项目本身。
+Checked the public DYL521 profile, public non-fork repository list, and repository content on 2026-09-30.
 
-## 文件与维护
+- [Jarvis Registry](https://github.com/ascending-llc/jarvis-registry): contributions verified through commits returned for GitHub author DYL521. The README identifies a contributor role, not sole ownership.
+  - [Embedding reindexing](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44).
+  - [Tool access controls](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470).
+- [Agentic Design Patterns CN](https://github.com/DYL521/Agentic-Design-Patterns-CN): public repository and bilingual project purpose verified from its README. Original book authorship is not attributed to DYL521.
+- Original RAG, identity, and Jira / Confluence experience and technologies are retained from the original profile README.
+- The personal website https://dyl521.github.io/ is linked in the top navigation and footer, as explicitly requested by the user. Contact email is retained from the original README.
 
-- `README.md`：主页内容，采用 Markdown 与简单 HTML。
-- `assets/profile-cover.svg`：静态 SVG 首图，不加载外部字体、脚本或远程资源。
-- 重要信息在正文中以文本保留；图片具有替代文本。技术栈不用宽表格，方便窄屏换行。
-- 修改 SVG 时保留 `viewBox` 和固定底色；窄屏主要依靠下方正文阅读完整信息。
+No follower counts, star counts, performance numbers, or uptime claims are invented or hard-coded into the design.
 
-## Git 状态
+## Assets
 
-- 原始 `master` 备份分支：`codex/backup-master-20260920`。
-- 设计分支：`codex/profile-redesign`。
-- 备份基点：`d32661b75f1bf5613b91b0cac30e51c762dd3d48`。
+- `assets/profile-hero.png`: original hero generated using the built-in image generation tool. Final prompt: [hero-prompt.txt](hero-prompt.txt). Source was copied from the generated-images directory into this repository. The illustration is conceptual; it is not an architecture claim about a particular project.
+- `assets/project-*.svg`: two linked repository cards.
+- `assets/work-*.svg`: three engineering focus cards.
+- `assets/link-*.svg`: local navigation buttons.
+- `assets/contact.svg`: contact panel.
 
-本次创建的是本地备份与设计分支。GitHub 公开主页需要在审核设计后，将内容合入仓库默认分支并推送才会更新。
+The SVGs are editable, static, and self-contained. All assets are local; no third-party image service is required. Every image has alternative text. Essential identity, project links, descriptions, and contact information also exist as native text. Cards wrap naturally; the hero scales to the available width.
+
+## Branches
+
+- Original master backup: `codex/backup-master-20260920`, pointing at `d32661b75f1bf5613b91b0cac30e51c762dd3d48`.
+- Working branch: `codex/profile-redesign`.
+- No master merge is part of this iteration.
+
+## Validation
+
+Local README previews were checked at desktop width (1100px) and narrow widths (390px and 320px), including light and dark backgrounds. Images loaded and no document-level horizontal overflow was detected. Project details expand correctly. All ten referenced local image assets exist, SVGs parse successfully, and both website links target the requested URL. `git diff --check` passes. Preview styling approximates GitHub; it does not replace checking the rendered branch on GitHub after a future push.
