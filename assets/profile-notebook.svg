@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+<title id="title">邓玉林 / Deng Yulin — Engineering field notes</title><desc id="desc">A personal engineering notebook in ink black and vermilion, with a diagram connecting knowledge, systems and workflows.</desc>
+<rect width="1200" height="510" fill="#f5f2e9"/>
+<g fill="none" stroke="#d8d3c7"><path d="M40 80H1160M40 439H1160M758 104V412"/><path d="M40 24V486M1160 24V486"/></g>
+<g font-family="monospace" font-size="16" fill="#24241f"><text x="64" y="53">DYL521 / ENGINEERING FIELD NOTES</text><text x="916" y="53">个人工程手记 / 01</text></g>
+<text x="56" y="238" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-weight="800" font-size="142" fill="#24241f">邓玉林<tspan fill="#d43d2d">.</tspan></text>
+<text x="64" y="293" font-family="Georgia,serif" font-size="37" font-style="italic" fill="#24241f">Deng Yulin</text>
+<text x="66" y="364" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="26" fill="#24241f">把知识连起来，把重复的事交给代码。</text>
+<text x="66" y="399" font-family="monospace" font-size="16" fill="#69685d">BACKEND / KNOWLEDGE SYSTEMS / AUTOMATION</text>
+<g transform="translate(798 123)"><text x="0" y="0" font-family="monospace" font-size="15" fill="#d43d2d">THINK IN CONNECTIONS.</text>
+<g fill="none" stroke="#24241f" stroke-width="2"><rect x="0" y="35" width="310" height="55"/><rect x="0" y="134" width="310" height="55"/><rect x="0" y="233" width="310" height="55"/><path d="M155 90V134M149 127L155 134L161 127M155 189V233M149 226L155 233L161 226"/></g>
+<g font-family="monospace" font-size="20" fill="#24241f"><text x="18" y="70">01 / KNOWLEDGE</text><text x="18" y="169">02 / SYSTEMS</text><text x="18" y="268">03 / WORKFLOWS</text></g><circle cx="289" cy="62" r="5" fill="#d43d2d"/><circle cx="289" cy="161" r="5" fill="#d43d2d"/><circle cx="289" cy="260" r="5" fill="#d43d2d"/></g>
+<text x="64" y="477" font-family="monospace" font-size="16" fill="#69685d">SELECTED WORK + IDEAS IN PROGRESS</text><text x="933" y="477" font-family="monospace" font-size="16" fill="#d43d2d">dyl521.github.io ↗</text></svg>

@@ -1,20 +1,12 @@
-<p align="center">
-  <img src="./assets/profile-hero.png" width="100%" alt="Deng Yulin — AI Platform Engineer. Connecting knowledge. Engineering intelligence. RAG systems, backend, and automation." />
-</p>
+<a href="https://dyl521.github.io/"><img src="./assets/profile-notebook.svg" width="100%" alt="邓玉林 / Deng Yulin — 个人工程手记。把知识连起来，把重复的事交给代码。" /></a>
 
-<p align="center">
-  <strong>Hi, I'm Yulin / 邓玉林 👋</strong><br />
-  I build AI platforms, connect enterprise systems, and make complex workflows easier to use.<br />
-  <sub>专注 RAG、后端架构与企业自动化，把技术做成真正有用的系统。</sub>
-</p>
+**我是邓玉林。** 做 AI 平台与后端，也写脚本解决工作里那些重复、琐碎的事。
 
-<p align="center">
-  <a href="mailto:1016068291@qq.com"><img src="./assets/link-email.svg" height="36" alt="Email me" /></a>
-  <a href="https://github.com/DYL521?tab=repositories"><img src="./assets/link-github.svg" height="36" alt="Explore my repositories" /></a>
-  <a href="https://dyl521.github.io/"><img src="./assets/link-website.svg" height="36" alt="Website / 个人网站" /></a>
-</p>
+我的项目大多围绕三个问题：知识怎么被找到，系统怎么连起来，流程怎么少一点人工。
 
-## Open source · 开源实践
+[个人网站 ↗](https://dyl521.github.io/) · [代码仓库 ↗](https://github.com/DYL521?tab=repositories) · [写信给我 ↗](mailto:1016068291@qq.com)
+
+## 01 / 开源现场
 
 <p align="center">
   <a href="https://github.com/ascending-llc/jarvis-registry"><img src="./assets/project-jarvis.svg" width="410" alt="Jarvis Registry — contributor. Enterprise MCP and agent gateway; contributions to embedding reindexing and tool access controls." /></a>
@@ -25,13 +17,13 @@
 
 **[Agentic Design Patterns CN](https://github.com/DYL521/Agentic-Design-Patterns-CN)** — A Chinese/English resource on AI agent design patterns, connecting concepts with implementation examples.
 
-## Engineering focus · 工程方向
+## 02 / 我在做的系统
 
-<p align="center">
-  <img src="./assets/work-knowledge.svg" width="270" alt="Knowledge systems — enterprise retrieval and structured answers. LlamaIndex, Weaviate, FastAPI, Redis." />
-  <img src="./assets/work-identity.svg" width="270" alt="Identity and access — account lifecycle automation. Django, MySQL, Redis, LDAP and Active Directory." />
-  <img src="./assets/work-workflows.svg" width="270" alt="Workflow engineering — programmable Jira and Confluence workflows. Groovy, ScriptRunner, REST APIs and custom plugins." />
-</p>
+| 方向 | 想解决的问题 |
+| :--- | :--- |
+| **知识检索 / RAG** | 让散落的企业知识能被检索，形成结构清晰的回答。 |
+| **身份与权限** | 连接 AD 与内部系统，减少账号管理中的重复操作。 |
+| **协作自动化** | 让 Jira / Confluence 流程可以用脚本和 API 编排。 |
 
 <details>
 <summary><strong>Inside the systems / 项目细节</strong></summary>
@@ -56,7 +48,7 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 
 </details>
 
-## Toolbox · 技术栈
+## 03 / 手边的工具
 
 | Area | Tools |
 | :--- | :--- |
@@ -66,25 +58,14 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 | Infrastructure | `Docker` `Kubernetes` `AWS` `Git` |
 | Integrations | `MCP` `LDAP / AD` `Jira` `Confluence` `REST APIs` |
 
-## How I work · 我在意的事
+## 04 / 保持联系
 
-- **Understand the workflow.** Start with the real problem and where people lose time.
-- **Make the connections clear.** Give knowledge, services, and automation a structure that is easy to work with.
-- **Build for lasting usefulness.** A good tool should still save time months after release.
+如果你也在做 RAG、后端系统或企业自动化，欢迎交流具体的问题和实现。
 
-<details>
-<summary><strong>用中文认识我</strong></summary>
+**[去我的个人网站看看 ↗](https://dyl521.github.io/)**
 
-我是邓玉林，一名 AI 平台工程师。我喜欢处理 AI、后端系统和业务流程之间的连接问题：让企业知识能够被检索和使用，让内部系统顺畅协同，让重复流程自动运行。
+[1016068291@qq.com](mailto:1016068291@qq.com) · [GitHub / DYL521](https://github.com/DYL521)
 
-除了 RAG、身份权限和 Jira / Confluence 工程化项目，我也参与 Jarvis Registry 的开发，并整理 AI Agent 设计模式的中英文资料。
+---
 
-我看重清晰的系统边界，也看重工具上线以后是否仍然有用。欢迎交流 AI 平台、RAG、后端系统与企业自动化。
-
-</details>
-
-<br />
-
-<a href="mailto:1016068291@qq.com"><img src="./assets/contact.svg" width="100%" alt="Good systems start with a conversation. Email Deng Yulin." /></a>
-
-<p align="center"><a href="mailto:1016068291@qq.com">1016068291@qq.com</a> &nbsp; · &nbsp; <a href="https://dyl521.github.io/">个人网站 / Website ↗</a> &nbsp; · &nbsp; <a href="https://github.com/DYL521?tab=repositories">Repositories</a></p>
+<sub>邓玉林 / Deng Yulin · 代码、系统，以及它们之间的连接。</sub>

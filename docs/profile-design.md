@@ -44,3 +44,7 @@ The SVGs are editable, static, and self-contained. All assets are local; no thir
 ## Validation
 
 Local README previews were checked at desktop width (1100px) and narrow widths (390px and 320px), including light and dark backgrounds. Images loaded and no document-level horizontal overflow was detected. Project details expand correctly. All ten referenced local image assets exist, SVGs parse successfully, and both website links target the requested URL. `git diff --check` passes. Preview styling approximates GitHub; it does not replace checking the rendered branch on GitHub after a future push.
+
+## Revision: engineering field notes
+
+Replaced the generated technology hero with a self-contained SVG masthead: Chinese name, ink-black type, vermilion annotations, paper background and a functional connection diagram. Removed decorative skill cards and badge navigation from the README. Kept verified project links and a text-first account of the work. Prior assets remain available for comparison.
