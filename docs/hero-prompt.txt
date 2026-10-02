@@ -1,0 +1,13 @@
+Use case: stylized-concept
+Asset type: final wide GitHub developer profile banner, landscape aspect ratio 3:1, ideally 1800x600.
+Primary request: A beautifully art-directed, highly polished personal header for Deng Yulin, an AI platform engineer who builds RAG knowledge systems, backend services and enterprise automation.
+Design: Sophisticated developer portfolio / premium technology product aesthetic. Deep midnight navy #0b1020 background. Generous empty space. Restrained cyan and periwinkle lighting, a subtle fine dotted grid fading into the background. Rounded rectangle border very faint.
+Left 52%: exceptional clean readable typography, use these EXACT strings only, at comfortable sizes:
+small top eyebrow "DYL521 / AI PLATFORM ENGINEER"
+large elegant near-white name "Deng Yulin"
+medium secondary line "Connecting knowledge."
+medium secondary line "Engineering intelligence."
+small bottom tags "RAG SYSTEMS    /    BACKEND    /    AUTOMATION"
+Name should be the dominant text but never oversized brutalist lettering.
+Right 45%: an intricate premium 3D isometric miniature intelligence architecture floating in space. Translucent glass document tiles on the left of the scene linked through elegant thin luminous cyan and violet paths into a central layered glass compute cube, then into small workflow modules. Subtle depth of field, realistic polished edges, iridescent glass and brushed dark metal, soft ambient light, a few tiny purposeful points of light. Beautifully composed sculptural architecture; precision, intelligence, calm confidence. Keep everything comfortably inside the margins.
+No people, no robot mascot, no brains, no giant logo, no lime green, no orange panels, no cartoon clipart, no heavy neon fog, no busy circuit-board wallpaper, no charts with invented statistics, no extra text, no watermarks. This is a designed banner image, NOT a screenshot or full webpage. The overall image should feel exquisite and coherent, with legible typography and a compelling right-hand illustration.

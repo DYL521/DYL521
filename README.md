@@ -1,141 +1,133 @@
-<div align="center">
+<a href="https://dyl521.github.io/"><img src="./assets/profile-artwork.jpg" width="100%" alt="Anime illustration with an ink-black background, jade tones, and vermilion blossoms." /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&customColorList=12,20,24,30&text=Deng%20Yulin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Platform%20Engineer%20%E2%9C%A6%20RAG%20Builder%20%E2%9C%A6%20Automation%20Architect&descAlignY=58&descSize=16" width="100%" />
+<p align="center"><sub>DYL521 &nbsp; / &nbsp; Code · Systems · Notes</sub></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1400&color=7AA2F7&center=true&vCenter=true&width=860&lines=I+build+systems+that+feel+simple.;RAG+%E2%9C%A6+Automation+%E2%9C%A6+Backend+Platforms.;Less+friction%2C+more+leverage." alt="Typing SVG" />
+### Hi, I’m Yulin. Let’s learn and build together.
 
-<p>
-  <a href="mailto:1016068291@qq.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/DYL521"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=DYL521&style=for-the-badge&color=7aa2f7&label=views" />
-</p>
+I build AI platforms and backend services that connect knowledge, systems, and workflows.
 
-</div>
-
-## EN
-
-```yaml
-name: Deng Yulin
-role: AI Platform Engineer
-focus:
-  - RAG systems
-  - enterprise automation
-  - backend architecture
-  - Jira / Confluence engineering
-```
-
-I like building software that quietly removes friction.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/RAG%20Platforms-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Identity%20Automation-0f766e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Jira%20%2F%20Confluence-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python%20%2F%20Go%20%2F%20Java-111827?style=flat-square" />
-</div>
-
-### a few things about me
-
-- I enjoy turning messy workflows into clean systems.
-- I care about tools that still save time months after release.
-- I work best where AI, backend systems, and operations overlap.
-
-### selected work
-
-<details open>
-  <summary><b>RAG Intelligent Q&A Platform</b></summary>
-  <br/>
-  <b>LlamaIndex + Weaviate + FastAPI + Redis</b><br/>
-  Enterprise knowledge retrieval with structured answers and metadata filtering.
-</details>
-
-<details>
-  <summary><b>Identity & Permission Platform</b></summary>
-  <br/>
-  <b>Django + MySQL + Redis + LDAP</b><br/>
-  Account lifecycle automation across internal systems and AD-connected workflows.
-</details>
-
-<details>
-  <summary><b>Jira / Confluence Engineering Platform</b></summary>
-  <br/>
-  <b>Groovy + ScriptRunner + REST APIs + custom plugins</b><br/>
-  Collaboration workflows turned into programmable internal infrastructure.
-</details>
-
-### toolbox
+Here you’ll find my open-source contributions and learning resources. I’m always happy to exchange ideas, share implementation experience, and learn from others.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,go,java,postgres,mysql,redis,docker,kubernetes,aws,git" />
+  <a href="https://dyl521.github.io/">Website ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/DYL521?tab=repositories">Repositories</a> &nbsp; / &nbsp;
+  <a href="mailto:1016068291@qq.com">Email</a>
 </p>
 
-## 中文
-
 <details>
-  <summary><b>点击展开中文</b></summary>
-  <br/>
+<summary><strong>中文介绍 · 展开阅读</strong></summary>
 
-  <pre><code>姓名: 邓玉林
-角色: AI 平台工程师
-关注方向:
-  - RAG 系统
-  - 企业自动化
-  - 后端架构
-  - Jira / Confluence 工程化</code></pre>
+### 你好，我是玉林。欢迎交流，共同学习。
 
-  我喜欢做那种“把复杂东西变顺”的系统。
+我从事 AI 平台与后端开发，关注知识检索、系统集成和流程自动化。这里记录了我参与的开源项目与整理的学习资料，欢迎交流技术思路、分享实践经验，也期待从你的经历中学习。
 
-  <div align="center">
-    <img src="https://img.shields.io/badge/RAG%20系统-1f6feb?style=flat-square" />
-    <img src="https://img.shields.io/badge/身份与流程自动化-0f766e?style=flat-square" />
-    <img src="https://img.shields.io/badge/Jira%20%2F%20Confluence%20工程化-7c3aed?style=flat-square" />
-    <img src="https://img.shields.io/badge/Python%20%2F%20Go%20%2F%20Java-111827?style=flat-square" />
-  </div>
+**开源实践**
 
-  <h3>关于我</h3>
+- **[Jarvis Registry](https://github.com/ascending-llc/jarvis-registry)**：企业 MCP 与 Agent 网关，参与 embedding 重建索引和工具访问控制等开发。
+- **[Agentic Design Patterns CN](https://github.com/DYL521/Agentic-Design-Patterns-CN)**：整理 AI Agent 设计模式的中英文资料，结合概念与实现示例学习。
 
-  - 我喜欢把混乱流程收敛成清晰系统。
-  - 我在意的是上线之后还能持续省时间的工具。
-  - 我最擅长的区域，是 AI、后端系统和业务流程的交叉点。
+**工程方向**
 
-  <h3>代表项目</h3>
+- **知识检索与问答**：使用 LlamaIndex、Weaviate、FastAPI 和 Redis，通过元数据过滤与结构化回答，让企业知识更容易被使用。
+- **身份与权限管理**：使用 Django、MySQL、Redis 与 LDAP / AD，连接内部系统，减少账号生命周期中的重复操作。
+- **协作流程自动化**：使用 Groovy、ScriptRunner、REST API 与自研插件，改造 Jira / Confluence 工作流。
 
-  <details open>
-    <summary><b>RAG 智能问答平台</b></summary>
-    <br/>
-    <b>LlamaIndex + Weaviate + FastAPI + Redis</b><br/>
-    企业知识检索、结构化回答、字段过滤。
-  </details>
+如果你也在探索这些方向，欢迎交流具体问题、讨论实现方案，一起学习进步。
 
-  <details>
-    <summary><b>统一账号与权限平台</b></summary>
-    <br/>
-    <b>Django + MySQL + Redis + LDAP</b><br/>
-    覆盖账号全生命周期自动化，以及 AD / 内部系统联动。
-  </details>
+[个人网站 ↗](https://dyl521.github.io/) · [代码仓库](https://github.com/DYL521?tab=repositories) · [邮件交流](mailto:1016068291@qq.com)
 
-  <details>
-    <summary><b>Jira / Confluence 工程化平台</b></summary>
-    <br/>
-    <b>Groovy + ScriptRunner + REST API + 自研插件</b><br/>
-    把协作流程做成可编排、可扩展的工程能力。
-  </details>
 </details>
 
-## stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DYL521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYL521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c9d1d9" height="170" />
-</div>
+### Open source
 
-<div align="center">
+#### [Jarvis Registry ↗](https://github.com/ascending-llc/jarvis-registry)
 
-if you're building something around AI platforms, backend systems, or enterprise automation, feel free to reach out.
+<sub>Contributor · Python / MCP / AI infrastructure</sub>
 
-<br/><br/>
+An enterprise MCP and agent gateway. My contributions include [embedding reindexing](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44) and [tool access controls](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470).
 
-<a href="mailto:1016068291@qq.com">
-  <img src="https://img.shields.io/badge/Reach%20Out-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+#### [Agentic Design Patterns CN ↗](https://github.com/DYL521/Agentic-Design-Patterns-CN)
 
-</div>
+<sub>Learning resource · Chinese / English / AI Agents</sub>
+
+A Chinese/English resource on AI agent design patterns, bringing concepts and implementation examples together for study.
+
+---
+
+### Engineering
+
+**Make knowledge accessible.** Enterprise retrieval and structured answers with LlamaIndex, Weaviate, and FastAPI.
+
+**Connect systems.** Account and permission workflows with Django and LDAP / AD, reducing repetitive work.
+
+**Automate workflows.** Jira / Confluence integrations with Groovy, ScriptRunner, and REST APIs.
+
+<details>
+<summary><strong>Engineering notes · Expand to read</strong></summary>
+
+### RAG Intelligent Q&A Platform
+
+Enterprise knowledge retrieval with **metadata filtering** and **structured answers**, built with LlamaIndex, Weaviate, FastAPI, and Redis.
+
+### Identity & Permission Platform
+
+**Account lifecycle automation** across internal systems, connecting LDAP / Active Directory workflows with Django, MySQL, and Redis.
+
+### Jira / Confluence Engineering Platform
+
+**Scripts, custom plugins, and REST API integrations** that turn collaboration workflows into programmable infrastructure.
+
+</details>
+
+<details>
+<summary><strong>Toolbox · Explore the stack</strong></summary>
+
+| Area | Tools |
+| :--- | :--- |
+| Languages | `Python` `Go` `Java` `Groovy` |
+| AI & backend | `LlamaIndex` `Weaviate` `FastAPI` `Django` |
+| Data | `PostgreSQL` `MySQL` `Redis` |
+| Infrastructure | `Docker` `Kubernetes` `AWS` `Git` |
+| Integrations | `MCP` `LDAP / AD` `Jira` `Confluence` `REST APIs` |
+
+</details>
+
+### Exchange ideas
+
+Working on RAG, backend systems, or enterprise automation? Let’s compare approaches, share what we’ve learned, and explore ideas together.
+
+**[Visit my website ↗](https://dyl521.github.io/)**
+
+[1016068291@qq.com](mailto:1016068291@qq.com) · [GitHub / DYL521](https://github.com/DYL521)
+
+<p align="center"><img src="./assets/art-divider.svg" width="360" alt="Vermilion and jade geometric divider." /><br /><sub>DYL521 · Share ideas. Keep learning.</sub></p>
+
+<details>
+<summary><strong>Maintenance · Backup & recovery / 备份与恢复</strong></summary>
+
+Before merging the profile redesign on **2026-10-02**, the repository's default branch (`master`, not `main`) was backed up:
+
+- **Backup branch:** `codex/backup-master-before-profile-20261002`
+- **Backup commit:** `d32661b75f1bf5613b91b0cac30e51c762dd3d48`
+- **Design branch:** `codex/profile-redesign`
+
+To inspect the old version without changing `master`:
+
+```sh
+git switch codex/backup-master-before-profile-20261002
+```
+
+To restore the tracked files from the backup while preserving commit history, first commit or stash any local changes, then run:
+
+```sh
+git switch master
+git restore --source=codex/backup-master-before-profile-20261002 --staged --worktree -- .
+git diff --cached --stat
+git commit -m "Restore profile from pre-redesign backup"
+```
+
+中文：以上备份保存了本次合并前的主分支。第一条命令用于查看旧版；恢复步骤会将受 Git 管理的文件还原到备份版本，并新增恢复提交，不重写历史。恢复前请先提交或暂存本地修改。此操作也会将本 README 还原为旧版，请先保存备份分支名。上述操作均为本地操作，远程同步需另行推送。
+
+</details>
