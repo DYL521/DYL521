@@ -60,3 +60,7 @@ References checked 2026-10-01: https://github.com/antfu (personal navigation), h
 User approved a slice-of-life anime night computer room. Original built-in image generation saved in assets/anime-room.png; exact prompt in docs/anime-room-prompt.txt. Character and room are fictional atmosphere, not a claim about the user's appearance, possessions or hobbies. Replaced poster masthead and oversized project cards with a panoramic illustration and native Markdown project shelf. Warm lamp / midnight palette, quiet bilingual welcome and accessible website links. Previous assets retained for comparison.
 
 Final polish: native text replaces the engineering table for narrow screens; collapsible notes and toolbox reduce visual density; a small self-contained pixel window/lamp footer echoes the banner. No custom CSS is required by the README.
+
+## User-supplied artwork revision
+
+Replaced the banner with assets/profile-artwork.jpg, copied unchanged from the user's attachment. Preserved artwork lettering and full aspect ratio. Palette: ink #080f0e, vermilion #f02e42, jade #64d6bd. Replaced room-specific copy and footer decoration. Preview CSS follows this palette; GitHub itself controls README page background, link and heading colors. The artwork is user-supplied, not generated or claimed as original.

@@ -1,12 +1,12 @@
-<a href="https://dyl521.github.io/"><img src="./assets/anime-room.png" width="100%" alt="DYL521 的深夜电脑房：窗外是蓝色夜空，桌灯照亮电脑、书和笔记，一位原创动画人物坐在桌前。" /></a>
+<a href="https://dyl521.github.io/"><img src="./assets/profile-artwork.jpg" width="100%" alt="用户选用的二次元插画：墨黑背景、青绿发色与朱红花枝。" /></a>
 
-<p align="center"><sub>☾ &nbsp; YULIN'S ROOM &nbsp; · &nbsp; 代码、笔记，还有没解决的小问题。</sub></p>
+<p align="center"><sub>DYL521 &nbsp; / &nbsp; 代码 · 系统 · 随手记</sub></p>
 
 ### 你好，我是玉林。欢迎来坐坐。
 
 欢迎来我的小站坐坐。我做 AI 平台和后端，写一些连接知识、系统与工作流程的代码。
 
-这里收着我参与的开源项目和整理的学习资料。窗外是夜色，往下翻是代码。
+这里收着我参与的开源项目和整理的学习资料。往下翻，看看最近在做的事。
 
 <p align="center">
   <a href="https://dyl521.github.io/">个人网站 ↗</a> &nbsp; / &nbsp;
@@ -16,7 +16,7 @@
 
 ---
 
-### 📂 书桌旁的项目架
+### 开源 / Open source
 
 #### [Jarvis Registry ↗](https://github.com/ascending-llc/jarvis-registry)
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠 桌上的日常
+### 工程 / Engineering
 
 **把知识找到。** 用 LlamaIndex、Weaviate 和 FastAPI 做企业知识检索与结构化问答。
 
@@ -41,7 +41,7 @@
 **把流程跑通。** 用 Groovy、ScriptRunner 和 REST API 改造 Jira / Confluence 工作流。
 
 <details>
-<summary><strong>翻开工程笔记 · 项目细节</strong></summary>
+<summary><strong>项目笔记 · 展开阅读</strong></summary>
 
 ### RAG Intelligent Q&A Platform
 
@@ -64,7 +64,7 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 </details>
 
 <details>
-<summary><strong>打开工具抽屉 · 技术栈</strong></summary>
+<summary><strong>技术栈 · 展开查看</strong></summary>
 
 | Area | Tools |
 | :--- | :--- |
@@ -76,7 +76,7 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 
 </details>
 
-### ✉ 有空常来
+### 联系 / Contact
 
 如果你也在做 RAG、后端系统或企业自动化，欢迎交流具体的问题和实现。
 
@@ -84,4 +84,4 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 
 [1016068291@qq.com](mailto:1016068291@qq.com) · [GitHub / DYL521](https://github.com/DYL521)
 
-<p align="center"><img src="./assets/night-divider.svg" width="360" alt="一盏暖灯、一扇夜窗。谢谢你来这里坐坐。" /><br /><sub>DYL521 · 谢谢你来这里坐坐。</sub></p>
+<p align="center"><img src="./assets/art-divider.svg" width="360" alt="朱红与青绿的几何分隔线。" /><br /><sub>DYL521 · 谢谢你来这里坐坐。</sub></p>
