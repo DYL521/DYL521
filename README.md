@@ -1,34 +1,47 @@
-<a href="https://dyl521.github.io/"><img src="./assets/profile-devspace.svg" width="100%" alt="DYL521 / 邓玉林 — 个人开发现场。后端、RAG、自动化。" /></a>
+<a href="https://dyl521.github.io/"><img src="./assets/anime-room.png" width="100%" alt="DYL521 的深夜电脑房：窗外是蓝色夜空，桌灯照亮电脑、书和笔记，一位原创动画人物坐在桌前。" /></a>
 
-### Hey, I’m Yulin. 这里是我的开发现场。
+<p align="center"><sub>☾ &nbsp; YULIN'S ROOM &nbsp; · &nbsp; 代码、笔记，还有没解决的小问题。</sub></p>
 
-做 AI 平台与后端，关心知识怎么被用起来，也关心每天能少做多少重复操作。
+### 你好，我是玉林。欢迎来坐坐。
 
-从 RAG 检索、MCP 工具接入，到账号权限和协作流程——我做的事，往往发生在系统与系统之间。
+欢迎来我的小站坐坐。我做 AI 平台和后端，写一些连接知识、系统与工作流程的代码。
 
-[个人网站 ↗](https://dyl521.github.io/) · [代码仓库 ↗](https://github.com/DYL521?tab=repositories) · [写信给我 ↗](mailto:1016068291@qq.com)
-
-## 做过的，比标签更具体。
+这里收着我参与的开源项目和整理的学习资料。窗外是夜色，往下翻是代码。
 
 <p align="center">
-  <a href="https://github.com/ascending-llc/jarvis-registry"><img src="./assets/selected-jarvis.svg" width="100%" alt="Jarvis Registry — contributor. Enterprise MCP and agent gateway; contributions to embedding reindexing and tool access controls." /></a>
-  <a href="https://github.com/DYL521/Agentic-Design-Patterns-CN"><img src="./assets/selected-agentic.svg" width="100%" alt="Agentic Design Patterns CN — my bilingual repository for learning AI agent design patterns." /></a>
+  <a href="https://dyl521.github.io/">个人网站 ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/DYL521?tab=repositories">逛逛仓库</a> &nbsp; / &nbsp;
+  <a href="mailto:1016068291@qq.com">给我写信</a>
 </p>
 
-**[Jarvis Registry](https://github.com/ascending-llc/jarvis-registry)** — 参与企业 AI 基础设施开发，包括 [embedding reindexing](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44) 和 [tool access controls](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470).
+---
 
-**[Agentic Design Patterns CN](https://github.com/DYL521/Agentic-Design-Patterns-CN)** — 整理 AI Agent 设计模式的中英文资料，连接概念与实现示例。
+### 📂 书桌旁的项目架
 
-## 我的代码，通常出现在这些地方。
+#### [Jarvis Registry ↗](https://github.com/ascending-llc/jarvis-registry)
 
-| 方向 | 想解决的问题 |
-| :--- | :--- |
-| **知识检索 / RAG** | 让散落的企业知识能被检索，形成结构清晰的回答。 |
-| **身份与权限** | 连接 AD 与内部系统，减少账号管理中的重复操作。 |
-| **协作自动化** | 让 Jira / Confluence 流程可以用脚本和 API 编排。 |
+<sub>参与贡献 · Python / MCP / AI infrastructure</sub>
+
+企业 MCP 与 Agent 网关。我参与了 [embedding 重建索引](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44) 和 [工具访问控制](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470) 等开发工作。
+
+#### [Agentic Design Patterns CN ↗](https://github.com/DYL521/Agentic-Design-Patterns-CN)
+
+<sub>学习资料 · 中文 / English / AI Agents</sub>
+
+整理 AI Agent 设计模式的中英文资料，把概念和实现示例放在一起，方便阅读与学习。
+
+---
+
+### 🛠 桌上的日常
+
+**把知识找到。** 用 LlamaIndex、Weaviate 和 FastAPI 做企业知识检索与结构化问答。
+
+**把系统连上。** 用 Django、LDAP / AD 连接账号与权限流程，减少重复操作。
+
+**把流程跑通。** 用 Groovy、ScriptRunner 和 REST API 改造 Jira / Confluence 工作流。
 
 <details>
-<summary><strong>Inside the systems / 项目细节</strong></summary>
+<summary><strong>翻开工程笔记 · 项目细节</strong></summary>
 
 ### RAG Intelligent Q&A Platform
 
@@ -51,7 +64,7 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 </details>
 
 <details>
-<summary><strong>工具箱 / Python、Go、后端与基础设施</strong></summary>
+<summary><strong>打开工具抽屉 · 技术栈</strong></summary>
 
 | Area | Tools |
 | :--- | :--- |
@@ -63,7 +76,7 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 
 </details>
 
-## 站外还有一个我。
+### ✉ 有空常来
 
 如果你也在做 RAG、后端系统或企业自动化，欢迎交流具体的问题和实现。
 
@@ -71,6 +84,4 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 
 [1016068291@qq.com](mailto:1016068291@qq.com) · [GitHub / DYL521](https://github.com/DYL521)
 
----
-
-<sub>DYL521 · BUILD / CONNECT / REPEAT</sub>
+<p align="center"><img src="./assets/night-divider.svg" width="360" alt="一盏暖灯、一扇夜窗。谢谢你来这里坐坐。" /><br /><sub>DYL521 · 谢谢你来这里坐坐。</sub></p>

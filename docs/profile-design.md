@@ -54,3 +54,9 @@ Replaced the generated technology hero with a self-contained SVG masthead: Chine
 Based on the user's explicit preference for bold contrast, oversized typography and experimental layout. Uses the actual GitHub handle as the central visual identity, orange/ink contrast and a cobalt code mark. No invented hobbies or biography. Native text remains readable beneath the SVG masthead. Full-width project strips replace the generic card grid.
 
 References checked 2026-10-01: https://github.com/antfu (personal navigation), https://github.com/tw93 (work and releases at the center), https://github.com/ryo-ma (project identity). These inform hierarchy, not copied graphics.
+
+## Revision: anime night room
+
+User approved a slice-of-life anime night computer room. Original built-in image generation saved in assets/anime-room.png; exact prompt in docs/anime-room-prompt.txt. Character and room are fictional atmosphere, not a claim about the user's appearance, possessions or hobbies. Replaced poster masthead and oversized project cards with a panoramic illustration and native Markdown project shelf. Warm lamp / midnight palette, quiet bilingual welcome and accessible website links. Previous assets retained for comparison.
+
+Final polish: native text replaces the engineering table for narrow screens; collapsible notes and toolbox reduce visual density; a small self-contained pixel window/lamp footer echoes the banner. No custom CSS is required by the README.
