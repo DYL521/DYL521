@@ -72,3 +72,7 @@ Removed custom preview-only palette CSS. Accent colors now live in self-containe
 ## Composition refinement
 
 Constrained original artwork to 680px without cropping, centered a compact personal masthead and 32px navigation. Two 280px chapter labels replace full-width bars. Condensed project metadata and engineering descriptions; removed duplicate English engineering detail blocks. Preserved full Chinese introduction and toolbox disclosures. Footer becomes one centered invitation to exchange ideas. Native GitHub layout attributes only.
+
+## Screenshot-led spacing correction
+
+User screenshot exposed disconnected colored labels and excessive vertical gaps. Removed image section labels and spacer breaks; grouped each project in a native blockquote with explicit line breaks, and consolidated engineering into a two-column table. Kept original illustration and navigation accents.

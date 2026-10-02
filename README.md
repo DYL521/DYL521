@@ -38,37 +38,25 @@
 
 </details>
 
-<br />
 
-<h3><img src="./assets/section-opensource.svg" width="280" alt="01 / Selected work" /></h3>
+## Selected work
 
-#### [Jarvis Registry ↗](https://github.com/ascending-llc/jarvis-registry)
+> **[Jarvis Registry ↗](https://github.com/ascending-llc/jarvis-registry)** · Contributor<br />
+> Enterprise MCP &amp; agent gateway.<br />
+> Contributions: [embedding reindexing](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44) · [tool access controls](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470)<br />
+> <sub>Python · MCP · AI infrastructure</sub>
 
-Enterprise MCP &amp; agent gateway. Contributing to [embedding reindexing](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44) and [tool access controls](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470).
+> **[Agentic Design Patterns CN ↗](https://github.com/DYL521/Agentic-Design-Patterns-CN)** · Learning resource<br />
+> Agent design patterns with implementation examples, in Chinese and English.<br />
+> <sub>AI agents · Design patterns · 中文 / EN</sub>
 
-<sub>CONTRIBUTOR &nbsp; / &nbsp; Python · MCP · AI infrastructure</sub>
+## Engineering focus
 
-#### [Agentic Design Patterns CN ↗](https://github.com/DYL521/Agentic-Design-Patterns-CN)
-
-A Chinese/English learning resource connecting agent design patterns with implementation examples.
-
-<sub>LEARNING RESOURCE &nbsp; / &nbsp; AI agents · 中文 / EN</sub>
-
-<br />
-
-<h3><img src="./assets/section-engineering.svg" width="280" alt="02 / Engineering focus" /></h3>
-
-**Knowledge → answers**<br />
-Enterprise retrieval, metadata filtering, and structured answers.<br />
-<sub>LlamaIndex · Weaviate · FastAPI · Redis</sub>
-
-**Accounts → access**<br />
-Account lifecycle automation across internal systems and LDAP / AD.<br />
-<sub>Django · MySQL · Redis · LDAP / AD</sub>
-
-**Workflows → code**<br />
-Jira / Confluence workflows connected through scripts, plugins, and APIs.<br />
-<sub>Groovy · ScriptRunner · REST APIs</sub>
+| Focus | What I work on |
+| :--- | :--- |
+| **Knowledge** | Enterprise retrieval, metadata filtering, structured answers.<br /><sub>LlamaIndex · Weaviate · FastAPI · Redis</sub> |
+| **Identity** | Account lifecycle and access across internal systems.<br /><sub>Django · MySQL · Redis · LDAP / AD</sub> |
+| **Automation** | Jira / Confluence integrations, scripts, and plugins.<br /><sub>Groovy · ScriptRunner · REST APIs</sub> |
 
 <details>
 <summary><strong>Toolbox · Explore the stack</strong></summary>
@@ -82,8 +70,6 @@ Jira / Confluence workflows connected through scripts, plugins, and APIs.<br />
 | Integrations | `MCP` `LDAP / AD` `Jira` `Confluence` `REST APIs` |
 
 </details>
-
-<br />
 
 <p align="center"><img src="./assets/art-divider.svg" width="280" alt="Vermilion and jade divider." /></p>
 <p align="center">
