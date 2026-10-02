@@ -9,9 +9,9 @@ I build AI platforms and backend services that connect knowledge, systems, and w
 Here you’ll find my open-source contributions and learning resources. I’m always happy to exchange ideas, share implementation experience, and learn from others.
 
 <p align="center">
-  <a href="https://dyl521.github.io/">Website ↗</a> &nbsp; / &nbsp;
-  <a href="https://github.com/DYL521?tab=repositories">Repositories</a> &nbsp; / &nbsp;
-  <a href="mailto:1016068291@qq.com">Email</a>
+  <a href="https://dyl521.github.io/"><img src="./assets/nav-website.svg" height="38" alt="Website" /></a>
+  <a href="https://github.com/DYL521?tab=repositories"><img src="./assets/nav-repos.svg" height="38" alt="Repositories" /></a>
+  <a href="mailto:1016068291@qq.com"><img src="./assets/nav-mail.svg" height="38" alt="Email" /></a>
 </p>
 
 <details>
@@ -40,7 +40,7 @@ Here you’ll find my open-source contributions and learning resources. I’m al
 
 ---
 
-### Open source
+<p><img src="./assets/section-opensource.svg" width="100%" alt="Open source" /></p>
 
 #### [Jarvis Registry ↗](https://github.com/ascending-llc/jarvis-registry)
 
@@ -56,7 +56,7 @@ A Chinese/English resource on AI agent design patterns, bringing concepts and im
 
 ---
 
-### Engineering
+<p><img src="./assets/section-engineering.svg" width="100%" alt="Engineering" /></p>
 
 **Make knowledge accessible.** Enterprise retrieval and structured answers with LlamaIndex, Weaviate, and FastAPI.
 
@@ -94,7 +94,7 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 
 </details>
 
-### Exchange ideas
+<p><img src="./assets/section-contact.svg" width="100%" alt="Exchange ideas" /></p>
 
 Working on RAG, backend systems, or enterprise automation? Let’s compare approaches, share what we’ve learned, and explore ideas together.
 
@@ -103,31 +103,3 @@ Working on RAG, backend systems, or enterprise automation? Let’s compare appro
 [1016068291@qq.com](mailto:1016068291@qq.com) · [GitHub / DYL521](https://github.com/DYL521)
 
 <p align="center"><img src="./assets/art-divider.svg" width="360" alt="Vermilion and jade geometric divider." /><br /><sub>DYL521 · Share ideas. Keep learning.</sub></p>
-
-<details>
-<summary><strong>Maintenance · Backup & recovery / 备份与恢复</strong></summary>
-
-Before merging the profile redesign on **2026-10-02**, the repository's default branch (`master`, not `main`) was backed up:
-
-- **Backup branch:** `codex/backup-master-before-profile-20261002`
-- **Backup commit:** `d32661b75f1bf5613b91b0cac30e51c762dd3d48`
-- **Design branch:** `codex/profile-redesign`
-
-To inspect the old version without changing `master`:
-
-```sh
-git switch codex/backup-master-before-profile-20261002
-```
-
-To restore the tracked files from the backup while preserving commit history, first commit or stash any local changes, then run:
-
-```sh
-git switch master
-git restore --source=codex/backup-master-before-profile-20261002 --staged --worktree -- .
-git diff --cached --stat
-git commit -m "Restore profile from pre-redesign backup"
-```
-
-中文：以上备份保存了本次合并前的主分支。第一条命令用于查看旧版；恢复步骤会将受 Git 管理的文件还原到备份版本，并新增恢复提交，不重写历史。恢复前请先提交或暂存本地修改。此操作也会将本 README 还原为旧版，请先保存备份分支名。上述操作均为本地操作，远程同步需另行推送。
-
-</details>

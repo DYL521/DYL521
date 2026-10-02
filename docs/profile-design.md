@@ -64,3 +64,7 @@ Final polish: native text replaces the engineering table for narrow screens; col
 ## User-supplied artwork revision
 
 Replaced the banner with assets/profile-artwork.jpg, copied unchanged from the user's attachment. Preserved artwork lettering and full aspect ratio. Palette: ink #080f0e, vermilion #f02e42, jade #64d6bd. Replaced room-specific copy and footer decoration. Preview CSS follows this palette; GitHub itself controls README page background, link and heading colors. The artwork is user-supplied, not generated or claimed as original.
+
+## GitHub rendering correction
+
+Removed custom preview-only palette CSS. Accent colors now live in self-contained SVG section headings and navigation, so they are part of the actual README assets. Body text, links and background use the reader's GitHub theme. Preserved the user's removal of backup instructions. Local preview remains an approximation, not a pixel-exact GitHub renderer.
