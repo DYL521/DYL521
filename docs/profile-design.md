@@ -68,3 +68,7 @@ Replaced the banner with assets/profile-artwork.jpg, copied unchanged from the u
 ## GitHub rendering correction
 
 Removed custom preview-only palette CSS. Accent colors now live in self-contained SVG section headings and navigation, so they are part of the actual README assets. Body text, links and background use the reader's GitHub theme. Preserved the user's removal of backup instructions. Local preview remains an approximation, not a pixel-exact GitHub renderer.
+
+## Composition refinement
+
+Constrained original artwork to 680px without cropping, centered a compact personal masthead and 32px navigation. Two 280px chapter labels replace full-width bars. Condensed project metadata and engineering descriptions; removed duplicate English engineering detail blocks. Preserved full Chinese introduction and toolbox disclosures. Footer becomes one centered invitation to exchange ideas. Native GitHub layout attributes only.

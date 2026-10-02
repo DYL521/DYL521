@@ -1,17 +1,17 @@
-<a href="https://dyl521.github.io/"><img src="./assets/profile-artwork.jpg" width="100%" alt="Anime illustration with an ink-black background, jade tones, and vermilion blossoms." /></a>
-
-<p align="center"><sub>DYL521 &nbsp; / &nbsp; Code · Systems · Notes</sub></p>
-
-### Hi, I’m Yulin. Let’s learn and build together.
-
-I build AI platforms and backend services that connect knowledge, systems, and workflows.
-
-Here you’ll find my open-source contributions and learning resources. I’m always happy to exchange ideas, share implementation experience, and learn from others.
-
 <p align="center">
-  <a href="https://dyl521.github.io/"><img src="./assets/nav-website.svg" height="38" alt="Website" /></a>
-  <a href="https://github.com/DYL521?tab=repositories"><img src="./assets/nav-repos.svg" height="38" alt="Repositories" /></a>
-  <a href="mailto:1016068291@qq.com"><img src="./assets/nav-mail.svg" height="38" alt="Email" /></a>
+  <a href="https://dyl521.github.io/"><img src="./assets/profile-artwork.jpg" width="680" alt="Anime illustration with jade tones and vermilion blossoms on an ink-black background." /></a>
+</p>
+
+<p align="center"><sub>D Y L 5 2 1 &nbsp; / &nbsp; CODE · SYSTEMS · NOTES</sub></p>
+<h2 align="center">Yulin Deng · 邓玉林</h2>
+<p align="center">
+  AI platforms, backend systems, and the connections between them.<br />
+  <sub>Sharing what I build. Learning from what you build.</sub>
+</p>
+<p align="center">
+  <a href="https://dyl521.github.io/"><img src="./assets/nav-website.svg" height="32" alt="Website" /></a>
+  <a href="https://github.com/DYL521?tab=repositories"><img src="./assets/nav-repos.svg" height="32" alt="Repositories" /></a>
+  <a href="mailto:1016068291@qq.com"><img src="./assets/nav-mail.svg" height="32" alt="Email" /></a>
 </p>
 
 <details>
@@ -38,48 +38,37 @@ Here you’ll find my open-source contributions and learning resources. I’m al
 
 </details>
 
----
+<br />
 
-<p><img src="./assets/section-opensource.svg" width="100%" alt="Open source" /></p>
+<h3><img src="./assets/section-opensource.svg" width="280" alt="01 / Selected work" /></h3>
 
 #### [Jarvis Registry ↗](https://github.com/ascending-llc/jarvis-registry)
 
-<sub>Contributor · Python / MCP / AI infrastructure</sub>
+Enterprise MCP &amp; agent gateway. Contributing to [embedding reindexing](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44) and [tool access controls](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470).
 
-An enterprise MCP and agent gateway. My contributions include [embedding reindexing](https://github.com/ascending-llc/jarvis-registry/commit/cfa8267b5f57471544bce4a7e8b3ffe9ed05fb44) and [tool access controls](https://github.com/ascending-llc/jarvis-registry/commit/5ebe945115059765ab8d3da1b4422a62dbd15470).
+<sub>CONTRIBUTOR &nbsp; / &nbsp; Python · MCP · AI infrastructure</sub>
 
 #### [Agentic Design Patterns CN ↗](https://github.com/DYL521/Agentic-Design-Patterns-CN)
 
-<sub>Learning resource · Chinese / English / AI Agents</sub>
+A Chinese/English learning resource connecting agent design patterns with implementation examples.
 
-A Chinese/English resource on AI agent design patterns, bringing concepts and implementation examples together for study.
+<sub>LEARNING RESOURCE &nbsp; / &nbsp; AI agents · 中文 / EN</sub>
 
----
+<br />
 
-<p><img src="./assets/section-engineering.svg" width="100%" alt="Engineering" /></p>
+<h3><img src="./assets/section-engineering.svg" width="280" alt="02 / Engineering focus" /></h3>
 
-**Make knowledge accessible.** Enterprise retrieval and structured answers with LlamaIndex, Weaviate, and FastAPI.
+**Knowledge → answers**<br />
+Enterprise retrieval, metadata filtering, and structured answers.<br />
+<sub>LlamaIndex · Weaviate · FastAPI · Redis</sub>
 
-**Connect systems.** Account and permission workflows with Django and LDAP / AD, reducing repetitive work.
+**Accounts → access**<br />
+Account lifecycle automation across internal systems and LDAP / AD.<br />
+<sub>Django · MySQL · Redis · LDAP / AD</sub>
 
-**Automate workflows.** Jira / Confluence integrations with Groovy, ScriptRunner, and REST APIs.
-
-<details>
-<summary><strong>Engineering notes · Expand to read</strong></summary>
-
-### RAG Intelligent Q&A Platform
-
-Enterprise knowledge retrieval with **metadata filtering** and **structured answers**, built with LlamaIndex, Weaviate, FastAPI, and Redis.
-
-### Identity & Permission Platform
-
-**Account lifecycle automation** across internal systems, connecting LDAP / Active Directory workflows with Django, MySQL, and Redis.
-
-### Jira / Confluence Engineering Platform
-
-**Scripts, custom plugins, and REST API integrations** that turn collaboration workflows into programmable infrastructure.
-
-</details>
+**Workflows → code**<br />
+Jira / Confluence workflows connected through scripts, plugins, and APIs.<br />
+<sub>Groovy · ScriptRunner · REST APIs</sub>
 
 <details>
 <summary><strong>Toolbox · Explore the stack</strong></summary>
@@ -94,12 +83,11 @@ Enterprise knowledge retrieval with **metadata filtering** and **structured answ
 
 </details>
 
-<p><img src="./assets/section-contact.svg" width="100%" alt="Exchange ideas" /></p>
+<br />
 
-Working on RAG, backend systems, or enterprise automation? Let’s compare approaches, share what we’ve learned, and explore ideas together.
-
-**[Visit my website ↗](https://dyl521.github.io/)**
-
-[1016068291@qq.com](mailto:1016068291@qq.com) · [GitHub / DYL521](https://github.com/DYL521)
-
-<p align="center"><img src="./assets/art-divider.svg" width="360" alt="Vermilion and jade geometric divider." /><br /><sub>DYL521 · Share ideas. Keep learning.</sub></p>
+<p align="center"><img src="./assets/art-divider.svg" width="280" alt="Vermilion and jade divider." /></p>
+<p align="center">
+  <strong>Let’s exchange ideas.</strong><br />
+  <sub>RAG, backend engineering, or a problem you’re working through.</sub><br /><br />
+  <a href="mailto:1016068291@qq.com">Email me</a> &nbsp; · &nbsp; <a href="https://dyl521.github.io/">Visit my website ↗</a>
+</p>
