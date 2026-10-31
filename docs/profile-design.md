@@ -73,6 +73,12 @@ Removed custom preview-only palette CSS. Accent colors now live in self-containe
 
 Constrained original artwork to 680px without cropping, centered a compact personal masthead and 32px navigation. Two 280px chapter labels replace full-width bars. Condensed project metadata and engineering descriptions; removed duplicate English engineering detail blocks. Preserved full Chinese introduction and toolbox disclosures. Footer becomes one centered invitation to exchange ideas. Native GitHub layout attributes only.
 
+## Revision: DeepSeek-chan deep sea
+
+Deep-sea navy (#121A4A) and ice-blue palette built around DeepSeek-chan, the community whale-girl mascot. Hero is `assets/hero.svg`: name, role and a speech bubble beside one of four poses cut out of [deepseek-chan-meme-pack](https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack) images #050, #123, #070, #010 (text, bubbles and watermarks removed, white sticker outline added; stored as `assets/deepseek-chan/*.webp`). `scripts/rotate_hero.py` (stdlib only) rebuilds the hero with a different random pose; `.github/workflows/rotate-hero.yml` runs it hourly and commits the result. Fan art credited in the footer; the pack allows non-commercial fan use.
+
+English is shown by default, the full Chinese version sits in one `<details>`. Focus areas and toolbox extended from the user's resume (stack and capabilities only; no phone number, age, employers or performance figures). Nav buttons recolored to match; `whale-divider.svg` replaces the vermilion divider in the footer.
+
 ## Screenshot-led spacing correction
 
 User screenshot exposed disconnected colored labels and excessive vertical gaps. Removed image section labels and spacer breaks; grouped each project in a native blockquote with explicit line breaks, and consolidated engineering into a two-column table. Kept original illustration and navigation accents.
